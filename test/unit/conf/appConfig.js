@@ -1,8 +1,21 @@
 import { expect, assert } from 'chai';
 import {} from 'dotenv/config';
-import appConfig from '../../../conf/appConfig';
+import { noPreserveCache } from 'proxyquire';
 
-const { app, logger } = appConfig;
+// Library to allow overriding dependencies (no cache)
+const proxyquire = noPreserveCache();
+
+let config;
+function setAppConfig () {
+  config = proxyquire('../../../conf/appConfig', {}).default;
+}
+
+// Default values in the config
+const DEFAULT_PORT = '3000';
+const DEFAULT_LOG = 'info';
+const DEFAULT_LOG_ENABLE_CONSOLE = true;
+
+// System environment variables
 const {
   APP_NAME,
   APP_ENV,
@@ -14,48 +27,115 @@ const {
   LOG_ENABLE_CONSOLE
 } = process.env;
 
-describe('Application Config', () => {
+describe('Application Config Test Suite', () => {
+  let appConfig;
+  let loggerConfig;
+
+  // Load the config before running the test cases
+  before(() => {
+    setAppConfig();
+    appConfig = config.app;
+    loggerConfig = config.logger;
+  });
+
   describe('`app` config', () => {
-    it('`app` config should exist on config file', () => expect(app).to.not.empty);
+    it('`app` config should exist on config file', () => expect(appConfig).to.not.empty);
 
-    it('`APP_NAME` exist on System Environment Variable', () => {
-      assert(APP_NAME, '`APP_NAME` doesn\'t exist in System Environment Variable');
+    it('`APP_NAME` should exist on system environment variables', () => {
+      assert(APP_NAME, '`APP_NAME` doesn\'t exist in system environment variables');
     });
 
-    it('`app.name` should be the same with the `APP_NAME` from system environment', () => {
-      assert(app.name === APP_NAME, '`app.name` is not equal to the `APP_NAME` from system environment');
+    it('`app.name` should be the same with the `APP_NAME` from system environment variables', () => {
+      assert(appConfig.name === APP_NAME, '`app.name` is not equal to the `APP_NAME` from system environment variables');
     });
 
-    it('`APP_ENV` exist on System Environment Variable', () => {
-      assert(APP_ENV, 'APP_ENV doesn\'t exist in Systems Environment Variable');
+    it('`APP_ENV` should exist on system environment variables', () => {
+      assert(APP_ENV, 'APP_ENV doesn\'t exist in system environment variables');
     });
 
-    it('`APP_VERSION` exist on System Environment Variable', () => {
-      assert(APP_VERSION, 'APP_VERSION doesn\'t exist in Systems Environment Variable');
+    it('`app.env` should be the same with the `APP_ENV` from system environment variables', () => {
+      assert(appConfig.env === APP_ENV, '`app.env` is not equal to the `APP_ENV` from system environment variables');
     });
 
-    it('`APP_PORT` exist on System Environment Variable', () => {
-      assert(APP_PORT, 'APP_PORT doesn\'t exist in Systems Environment Variable');
+    it('`APP_VERSION` should exist on system environment variables', () => {
+      assert(APP_VERSION, 'APP_VERSION doesn\'t exist in system environment variables');
+    });
+
+    it('`app.env` should be the same with the `APP_VERSION` from system environment variables', () => {
+      assert(appConfig.version === APP_VERSION, '`app.version` is not equal to the `APP_VERSION` from system environment variables');
+    });
+
+    it('`APP_PORT` should exist on system environment variables.', () => {
+      assert(APP_PORT, 'APP_PORT doesn\'t exist in system environment variables');
+    });
+
+    it('`app.port` should be the same with the `APP_PORT` from system environment variables', () => {
+      assert(appConfig.port === APP_PORT, '`app.port` is not equal to the `APP_PORT` from system environment variables');
+    });
+
+    it('`app.port` should use the default port if the APP_PORT doesn\'t exist in system environment variables', () => {
+      process.env.APP_PORT = '';
+      setAppConfig();
+      const { port } = config.app;
+      assert(port === DEFAULT_PORT, '`app.port` is not using the default port');
     });
   });
 
   describe('`logger` config', () => {
-    it('`logger` config should exist on config file', () => expect(logger).to.not.empty);
+    it('`logger` config should exist on config file', () => expect(loggerConfig).to.not.empty);
 
-    it('`LOG_ACCESS_PATH` exist on System Environment Variable', () => {
-      assert(LOG_ACCESS_PATH, '`LOG_ACCESS_PATH` doesn\'t exist in Systems Environment Variable');
+    it('`logger.name` should be the same with the `APP_NAME` from system environment variables', () => {
+      assert(loggerConfig.name === APP_NAME, '`logger.name` is not equal to the `APP_NAME` from system environment variables');
     });
 
-    it('`LOG_ERROR_PATH` exist on System Environment Variable', () => {
-      assert(LOG_ERROR_PATH, 'LOG_ERROR_PATH doesn\'t exist in Systems Environment Variable');
+    it('`LOG_ACCESS_PATH` should exist on system environment variables', () => {
+      assert(LOG_ACCESS_PATH, '`LOG_ACCESS_PATH` doesn\'t exist in system environment variables');
     });
 
-    it('`LOG_LEVEL` exist on System Environment Variable', () => {
-      assert(LOG_LEVEL, 'LOG_LEVEL doesn\'t exist in Systems Environment Variable');
+    it('`logger.access_log_file` should be the same with the `LOG_ACCESS_PATH` from system environment variables', () => {
+      assert(loggerConfig.access_log_file === LOG_ACCESS_PATH, '`logger.access_log_file` is not equal to the `LOG_ACCESS_PATH` from system environment variables');
     });
 
-    it('`LOG_ENABLE_CONSOLE` exist on System Environment Variable', () => {
-      assert(LOG_ENABLE_CONSOLE, 'LOG_ENABLE_CONSOLE doesn\'t exist in Systems Environment Variable');
+    it('`LOG_ERROR_PATH` exist on system environment variables', () => {
+      assert(LOG_ERROR_PATH, 'LOG_ERROR_PATH doesn\'t exist in system environment variables');
+    });
+
+    it('`logger.error_log_file` should be the same with the `LOG_ERROR_PATH` from system environment variables', () => {
+      assert(loggerConfig.error_log_file === LOG_ERROR_PATH, '`logger.error_log_file` is not equal to the `LOG_ERROR_PATH` from system environment variables');
+    });
+
+    it('`LOG_LEVEL` exist on system environment variables', () => {
+      assert(LOG_LEVEL, 'LOG_LEVEL doesn\'t exist in system environment variables');
+    });
+
+    it('`logger.level` should be the same with the `LOG_LEVEL` from system environment variables', () => {
+      assert(loggerConfig.level === LOG_LEVEL, '`logger.level` is not equal to the `LOG_LEVEL` from system environment variables');
+    });
+
+    it('`logger.level` should use the default log level if the LOG_LEVEL doesn\'t exist in system environment variables', () => {
+      process.env.LOG_LEVEL = '';
+      setAppConfig();
+      const { level } = config.logger;
+      assert(level === DEFAULT_LOG, '`logger.level` is not using the default log level');
+    });
+
+    it('`LOG_ENABLE_CONSOLE` should exist on system environment variables', () => {
+      assert(LOG_ENABLE_CONSOLE, 'LOG_ENABLE_CONSOLE doesn\'t exist in system environment variables');
+    });
+
+    it('`logger.console` should be the same with the `LOG_ENABLE_CONSOLE` from system environment variables', () => {
+      assert(loggerConfig.console === LOG_ENABLE_CONSOLE, '`logger.console` is not equal to the `LOG_ENABLE_CONSOLE` from system environment variables');
+    });
+
+    it('`logger.console` should use the default log enable console value if the LOG_ENABLE_CONSOLE doesn\'t exist in system environment variables', () => {
+      process.env.LOG_ENABLE_CONSOLE = '';
+      setAppConfig();
+      const { console } = config.logger;
+      assert(console === DEFAULT_LOG_ENABLE_CONSOLE, '`logger.console` is not using the default log enable console value');
+    });
+
+    it('`logger.format` should be equal to `:remote-addr - :method :url :status :response-time ms - :res[content-length]`', () => {
+      assert(loggerConfig.format === ':remote-addr - :method :url :status :response-time ms - :res[content-length]', '`logger.format` is not equal to the actual value');
     });
   });
 });
