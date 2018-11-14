@@ -1,0 +1,2766 @@
+[info] 2018-11-13T02:43:46.659Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T02:43:59.649Z - test
+[error] 2018-11-13T02:43:59.650Z - error test
+[info] 2018-11-13T02:45:08.085Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T02:45:09.881Z - test
+[error] 2018-11-13T02:45:09.881Z - error test
+[info] 2018-11-13T02:45:09.891Z - 127.0.0.1 - - [13/Nov/2018:02:45:09 +0000] "GET /api/auth/test HTTP/1.1" 200 47 "-" "PostmanRuntime/7.3.0"
+
+[info] 2018-11-13T02:45:26.048Z - test
+[error] 2018-11-13T02:45:26.048Z - error test
+[info] 2018-11-13T02:45:26.050Z - 127.0.0.1 - - [13/Nov/2018:02:45:26 +0000] "GET /api/auth/test HTTP/1.1" 200 47 "-" "PostmanRuntime/7.3.0"
+
+[info] 2018-11-13T02:47:52.238Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T02:47:52.922Z - test
+[error] 2018-11-13T02:47:52.922Z - error test
+[info] 2018-11-13T02:47:52.933Z - 127.0.0.1 - - [13/Nov/2018:02:47:52 +0000] "GET /api/auth/test HTTP/1.1" 200 47 "-" "PostmanRuntime/7.3.0"
+
+[info] 2018-11-13T02:47:57.458Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T02:48:16.183Z - test
+[error] 2018-11-13T02:48:16.183Z - error test
+[info] 2018-11-13T02:48:16.196Z - 127.0.0.1 - - [13/Nov/2018:02:48:16 +0000] "GET /api/auth/test HTTP/1.1" 200 47 "-" "PostmanRuntime/7.3.0"
+
+[info] 2018-11-13T02:48:35.526Z - test
+[error] 2018-11-13T02:48:35.527Z - error test
+[info] 2018-11-13T02:48:35.529Z - 127.0.0.1 - - [13/Nov/2018:02:48:35 +0000] "GET /api/auth/test HTTP/1.1" 200 47 "-" "PostmanRuntime/7.3.0"
+
+[info] 2018-11-13T02:48:53.338Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T02:49:08.419Z - test
+[error] 2018-11-13T02:49:08.420Z - error test
+[info] 2018-11-13T02:49:08.435Z - 127.0.0.1 - - [13/Nov/2018:02:49:08 +0000] "GET /api/auth/test HTTP/1.1" 200 47 "-" "PostmanRuntime/7.3.0"
+
+[info] 2018-11-13T02:49:10.459Z - test
+[error] 2018-11-13T02:49:10.460Z - error test
+[info] 2018-11-13T02:49:10.461Z - 127.0.0.1 - - [13/Nov/2018:02:49:10 +0000] "GET /api/auth/test HTTP/1.1" 200 47 "-" "PostmanRuntime/7.3.0"
+
+[info] 2018-11-13T02:49:11.500Z - test
+[error] 2018-11-13T02:49:11.501Z - error test
+[info] 2018-11-13T02:49:11.502Z - 127.0.0.1 - - [13/Nov/2018:02:49:11 +0000] "GET /api/auth/test HTTP/1.1" 200 47 "-" "PostmanRuntime/7.3.0"
+
+[info] 2018-11-13T02:49:12.188Z - test
+[error] 2018-11-13T02:49:12.188Z - error test
+[info] 2018-11-13T02:49:12.189Z - 127.0.0.1 - - [13/Nov/2018:02:49:12 +0000] "GET /api/auth/test HTTP/1.1" 200 47 "-" "PostmanRuntime/7.3.0"
+
+[info] 2018-11-13T02:49:12.613Z - test
+[error] 2018-11-13T02:49:12.613Z - error test
+[info] 2018-11-13T02:49:12.613Z - 127.0.0.1 - - [13/Nov/2018:02:49:12 +0000] "GET /api/auth/test HTTP/1.1" 200 47 "-" "PostmanRuntime/7.3.0"
+
+[info] 2018-11-13T02:49:12.984Z - test
+[error] 2018-11-13T02:49:12.984Z - error test
+[info] 2018-11-13T02:49:12.985Z - 127.0.0.1 - - [13/Nov/2018:02:49:12 +0000] "GET /api/auth/test HTTP/1.1" 200 47 "-" "PostmanRuntime/7.3.0"
+
+[info] 2018-11-13T02:49:13.347Z - test
+[error] 2018-11-13T02:49:13.347Z - error test
+[info] 2018-11-13T02:49:13.348Z - 127.0.0.1 - - [13/Nov/2018:02:49:13 +0000] "GET /api/auth/test HTTP/1.1" 200 47 "-" "PostmanRuntime/7.3.0"
+
+[info] 2018-11-13T02:49:13.658Z - test
+[error] 2018-11-13T02:49:13.658Z - error test
+[info] 2018-11-13T02:49:13.659Z - 127.0.0.1 - - [13/Nov/2018:02:49:13 +0000] "GET /api/auth/test HTTP/1.1" 200 47 "-" "PostmanRuntime/7.3.0"
+
+[info] 2018-11-13T02:49:13.995Z - test
+[error] 2018-11-13T02:49:13.996Z - error test
+[info] 2018-11-13T02:49:13.996Z - 127.0.0.1 - - [13/Nov/2018:02:49:13 +0000] "GET /api/auth/test HTTP/1.1" 200 47 "-" "PostmanRuntime/7.3.0"
+
+[info] 2018-11-13T02:49:14.356Z - test
+[error] 2018-11-13T02:49:14.356Z - error test
+[info] 2018-11-13T02:49:14.357Z - 127.0.0.1 - - [13/Nov/2018:02:49:14 +0000] "GET /api/auth/test HTTP/1.1" 200 47 "-" "PostmanRuntime/7.3.0"
+
+[info] 2018-11-13T02:49:16.831Z - test
+[error] 2018-11-13T02:49:16.831Z - error test
+[info] 2018-11-13T02:49:16.832Z - 127.0.0.1 - - [13/Nov/2018:02:49:16 +0000] "GET /api/auth/test HTTP/1.1" 200 47 "-" "PostmanRuntime/7.3.0"
+
+[info] 2018-11-13T02:49:34.472Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T02:49:36.434Z - test
+[error] 2018-11-13T02:49:36.434Z - error test
+[info] 2018-11-13T02:49:40.910Z - test
+[error] 2018-11-13T02:49:40.910Z - error test
+[info] 2018-11-13T02:51:24.989Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T02:51:27.260Z - test
+[error] 2018-11-13T02:51:27.261Z - error test
+[info] 2018-11-13T02:52:25.522Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T02:52:25.884Z - test
+[error] 2018-11-13T02:52:25.884Z - error test
+[info] 2018-11-13T02:52:25.894Z - 127.0.0.1 - - [13/Nov/2018:02:52:25 +0000] "GET /api/auth/test HTTP/1.1" 200 47 "-" "PostmanRuntime/7.3.0"
+[info] 2018-11-13T02:53:44.288Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T02:58:01.454Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:00:46.939Z - demo_api Server is running on port: 4000
+[error] 2018-11-13T03:01:42.332Z - uncaughtException: morgan is not defined
+ReferenceError: morgan is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:16:1)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+    at Module._compile (module.js:624:30)
+[error] 2018-11-13T03:02:16.095Z - uncaughtException: morgan is not defined
+ReferenceError: morgan is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:16:1)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+    at Module._compile (module.js:624:30)
+[error] 2018-11-13T03:02:22.420Z - uncaughtException: morgan is not defined
+ReferenceError: morgan is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:16:1)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+    at Module._compile (module.js:624:30)
+[error] 2018-11-13T03:02:54.365Z - uncaughtException: morgan is not defined
+ReferenceError: morgan is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:16:1)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+    at Module._compile (module.js:624:30)
+[error] 2018-11-13T03:02:56.273Z - uncaughtException: morgan is not defined
+ReferenceError: morgan is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:16:1)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+    at Module._compile (module.js:624:30)
+[error] 2018-11-13T03:02:56.426Z - uncaughtException: morgan is not defined
+ReferenceError: morgan is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:16:1)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+    at Module._compile (module.js:624:30)
+[error] 2018-11-13T03:03:41.297Z - uncaughtException: app is not defined
+ReferenceError: app is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/lib/logger.js:86:1)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/lib/index.js:2:1)
+[error] 2018-11-13T03:03:41.297Z - uncaughtException: app is not defined
+ReferenceError: app is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/lib/logger.js:86:1)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/lib/index.js:2:1)
+[error] 2018-11-13T03:04:02.564Z - uncaughtException: morgan is not defined
+ReferenceError: morgan is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:16:1)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+    at Module._compile (module.js:624:30)
+[info] 2018-11-13T03:05:44.534Z - demo_api Server is running on port: 4000
+[error] 2018-11-13T03:05:44.547Z - uncaughtException: listen EADDRINUSE 0.0.0.0:4000
+Error: listen EADDRINUSE 0.0.0.0:4000
+    at Object._errnoException (util.js:1019:11)
+    at _exceptionWithHostPort (util.js:1041:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1344:14)
+    at listenInCluster (net.js:1385:12)
+    at doListen (net.js:1494:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+    at Function.Module.runMain (module.js:667:11)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+    at Module._compile (module.js:624:30)
+[info] 2018-11-13T03:05:49.885Z - demo_api Server is running on port: 4000
+[error] 2018-11-13T03:06:38.954Z - uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/projects/expressjs_demo/node_modules/express/lib/application.js:210:11)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:16:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+[error] 2018-11-13T03:06:53.031Z - uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/projects/expressjs_demo/node_modules/express/lib/application.js:210:11)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:16:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+[error] 2018-11-13T03:07:05.267Z - uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/projects/expressjs_demo/node_modules/express/lib/application.js:210:11)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:17:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+[error] 2018-11-13T03:07:23.792Z - uncaughtException: Cannot read property 'use' of undefined
+TypeError: Cannot read property 'use' of undefined
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:16:1)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+    at Module._compile (module.js:624:30)
+[error] 2018-11-13T03:07:36.642Z - uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/projects/expressjs_demo/node_modules/express/lib/application.js:210:11)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:17:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+[error] 2018-11-13T03:07:44.767Z - uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/projects/expressjs_demo/node_modules/express/lib/application.js:210:11)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:17:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+[error] 2018-11-13T03:08:26.100Z - uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/projects/expressjs_demo/node_modules/express/lib/application.js:210:11)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:17:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+[error] 2018-11-13T03:08:50.746Z - uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/projects/expressjs_demo/node_modules/express/lib/application.js:210:11)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:17:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+[error] 2018-11-13T03:08:58.076Z - uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/projects/expressjs_demo/node_modules/express/lib/application.js:210:11)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:17:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+[error] 2018-11-13T03:09:01.309Z - uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/projects/expressjs_demo/node_modules/express/lib/application.js:210:11)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:17:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+[error] 2018-11-13T03:09:01.447Z - uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/projects/expressjs_demo/node_modules/express/lib/application.js:210:11)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:17:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+[info] 2018-11-13T03:10:23.007Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:10:24.272Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:10:54.338Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:11:04.935Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:11:23.761Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:11:45.412Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:11:48.030Z - test
+[error] 2018-11-13T03:11:48.030Z - error test
+[info] 2018-11-13T03:12:09.734Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:12:11.710Z - test
+[error] 2018-11-13T03:12:11.711Z - error test
+[info] 2018-11-13T03:12:13.459Z - test
+[error] 2018-11-13T03:12:13.459Z - error test
+[info] 2018-11-13T03:12:22.006Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:12:24.960Z - test
+[error] 2018-11-13T03:12:24.961Z - error test
+[info] 2018-11-13T03:12:26.233Z - test
+[error] 2018-11-13T03:12:26.234Z - error test
+[info] 2018-11-13T03:12:37.082Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:12:38.062Z - test
+[error] 2018-11-13T03:12:38.062Z - error test
+[info] 2018-11-13T03:12:39.037Z - test
+[error] 2018-11-13T03:12:39.038Z - error test
+[info] 2018-11-13T03:12:40.236Z - test
+[error] 2018-11-13T03:12:40.236Z - error test
+[info] 2018-11-13T03:12:40.973Z - test
+[error] 2018-11-13T03:12:40.973Z - error test
+[info] 2018-11-13T03:12:41.580Z - test
+[error] 2018-11-13T03:12:41.580Z - error test
+[info] 2018-11-13T03:12:41.995Z - test
+[error] 2018-11-13T03:12:41.995Z - error test
+[info] 2018-11-13T03:12:42.410Z - test
+[error] 2018-11-13T03:12:42.410Z - error test
+[info] 2018-11-13T03:12:42.782Z - test
+[error] 2018-11-13T03:12:42.782Z - error test
+[info] 2018-11-13T03:12:43.729Z - test
+[error] 2018-11-13T03:12:43.730Z - error test
+[info] 2018-11-13T03:12:44.340Z - test
+[error] 2018-11-13T03:12:44.340Z - error test
+[info] 2018-11-13T03:14:12.050Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:14:17.399Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:14:19.577Z - test
+[error] 2018-11-13T03:14:19.577Z - error test
+[info] 2018-11-13T03:14:21.594Z - test
+[error] 2018-11-13T03:14:21.594Z - error test
+[error] 2018-11-13T03:14:33.156Z - uncaughtException: log is not defined
+ReferenceError: log is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:17:9)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+    at Module._compile (module.js:624:30)
+[info] 2018-11-13T03:14:54.273Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:14:56.177Z - test
+[error] 2018-11-13T03:14:56.178Z - error test
+[info] 2018-11-13T03:14:56.187Z - 127.0.0.1 - - [13/Nov/2018:03:14:56 +0000] "GET /api/auth/test HTTP/1.1" 200 47 "-" "PostmanRuntime/7.3.0"
+[info] 2018-11-13T03:16:47.439Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:16:54.735Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:16:58.158Z - test
+[error] 2018-11-13T03:16:58.159Z - error test
+[info] 2018-11-13T03:16:58.172Z - 127.0.0.1 - - [13/Nov/2018:03:16:58 +0000] "GET /api/auth/test HTTP/1.1" 200 47 "-" "PostmanRuntime/7.3.0"
+[info] 2018-11-13T03:17:26.821Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:17:28.035Z - test
+[error] 2018-11-13T03:17:28.036Z - error test
+[info] 2018-11-13T03:17:28.049Z - 127.0.0.1 - - [13/Nov/2018:03:17:28 +0000] "GET /api/auth/test HTTP/1.1" 200 47 "-" "PostmanRuntime/7.3.0"
+[info] 2018-11-13T03:17:33.495Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:18:43.958Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:18:55.817Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:18:58.634Z - test
+[error] 2018-11-13T03:18:58.634Z - error test
+[info] 2018-11-13T03:18:58.645Z - [ACCESS-LOG] GET /api/auth/test 200 7.288 ms - 47
+[error] 2018-11-13T03:19:57.639Z - uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/projects/expressjs_demo/node_modules/express/lib/application.js:210:11)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:17:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+[error] 2018-11-13T03:20:04.667Z - uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/projects/expressjs_demo/node_modules/express/lib/application.js:210:11)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:17:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+[error] 2018-11-13T03:20:04.798Z - uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/projects/expressjs_demo/node_modules/express/lib/application.js:210:11)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:17:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+[error] 2018-11-13T03:20:16.109Z - uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/projects/expressjs_demo/node_modules/express/lib/application.js:210:11)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:17:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+[error] 2018-11-13T03:20:21.715Z - uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/projects/expressjs_demo/node_modules/express/lib/application.js:210:11)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:17:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+[error] 2018-11-13T03:20:25.803Z - uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/projects/expressjs_demo/node_modules/express/lib/application.js:210:11)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:17:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+[error] 2018-11-13T03:20:28.046Z - uncaughtException: morgan_log is not defined
+ReferenceError: morgan_log is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:17:9)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+    at Module._compile (module.js:624:30)
+[error] 2018-11-13T03:20:28.194Z - uncaughtException: morgan_log is not defined
+ReferenceError: morgan_log is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:17:9)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+    at Module._compile (module.js:624:30)
+[info] 2018-11-13T03:20:30.023Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:20:31.472Z - test
+[error] 2018-11-13T03:20:31.472Z - error test
+[info] 2018-11-13T03:20:31.480Z - GET /api/auth/test 200 5.887 ms - 47
+[info] 2018-11-13T03:20:53.308Z - test
+[error] 2018-11-13T03:20:53.308Z - error test
+[info] 2018-11-13T03:20:53.310Z - GET /api/auth/test 200 1.373 ms - 47
+[info] 2018-11-13T03:20:54.555Z - test
+[error] 2018-11-13T03:20:54.555Z - error test
+[info] 2018-11-13T03:20:54.556Z - GET /api/auth/test 200 1.321 ms - 47
+[info] 2018-11-13T03:20:55.413Z - test
+[error] 2018-11-13T03:20:55.413Z - error test
+[info] 2018-11-13T03:20:55.414Z - GET /api/auth/test 200 0.908 ms - 47
+[info] 2018-11-13T03:22:45.474Z - test
+[error] 2018-11-13T03:22:45.475Z - error test
+[info] 2018-11-13T03:22:45.476Z - GET /api/auth/test 200 0.920 ms - 47
+[info] 2018-11-13T03:23:39.823Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:23:40.037Z - test
+[error] 2018-11-13T03:23:40.037Z - error test
+[error] 2018-11-13T03:23:40.052Z - uncaughtException: tokens.ip is not a function
+TypeError: tokens.ip is not a function
+    at eval (eval at compile (/projects/expressjs_demo/node_modules/morgan/index.js:391:10), <anonymous>:5:18)
+    at Array.logRequest (/projects/expressjs_demo/node_modules/morgan/index.js:122:18)
+    at listener (/projects/expressjs_demo/node_modules/on-finished/index.js:169:15)
+    at onFinish (/projects/expressjs_demo/node_modules/on-finished/index.js:100:5)
+    at callback (/projects/expressjs_demo/node_modules/ee-first/index.js:55:10)
+    at ServerResponse.onevent (/projects/expressjs_demo/node_modules/ee-first/index.js:93:5)
+    at emitNone (events.js:110:20)
+    at ServerResponse.emit (events.js:207:7)
+    at onFinish (_http_outgoing.js:718:10)
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+[info] 2018-11-13T03:23:41.084Z - test
+[error] 2018-11-13T03:23:41.084Z - error test
+[error] 2018-11-13T03:23:41.086Z - uncaughtException: tokens.ip is not a function
+TypeError: tokens.ip is not a function
+    at eval (eval at compile (/projects/expressjs_demo/node_modules/morgan/index.js:391:10), <anonymous>:5:18)
+    at Array.logRequest (/projects/expressjs_demo/node_modules/morgan/index.js:122:18)
+    at listener (/projects/expressjs_demo/node_modules/on-finished/index.js:169:15)
+    at onFinish (/projects/expressjs_demo/node_modules/on-finished/index.js:100:5)
+    at callback (/projects/expressjs_demo/node_modules/ee-first/index.js:55:10)
+    at ServerResponse.onevent (/projects/expressjs_demo/node_modules/ee-first/index.js:93:5)
+    at emitNone (events.js:110:20)
+    at ServerResponse.emit (events.js:207:7)
+    at onFinish (_http_outgoing.js:718:10)
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+[info] 2018-11-13T03:23:42.367Z - test
+[error] 2018-11-13T03:23:42.367Z - error test
+[error] 2018-11-13T03:23:42.369Z - uncaughtException: tokens.ip is not a function
+TypeError: tokens.ip is not a function
+    at eval (eval at compile (/projects/expressjs_demo/node_modules/morgan/index.js:391:10), <anonymous>:5:18)
+    at Array.logRequest (/projects/expressjs_demo/node_modules/morgan/index.js:122:18)
+    at listener (/projects/expressjs_demo/node_modules/on-finished/index.js:169:15)
+    at onFinish (/projects/expressjs_demo/node_modules/on-finished/index.js:100:5)
+    at callback (/projects/expressjs_demo/node_modules/ee-first/index.js:55:10)
+    at ServerResponse.onevent (/projects/expressjs_demo/node_modules/ee-first/index.js:93:5)
+    at emitNone (events.js:110:20)
+    at ServerResponse.emit (events.js:207:7)
+    at onFinish (_http_outgoing.js:718:10)
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+[info] 2018-11-13T03:23:43.237Z - test
+[error] 2018-11-13T03:23:43.237Z - error test
+[error] 2018-11-13T03:23:43.239Z - uncaughtException: tokens.ip is not a function
+TypeError: tokens.ip is not a function
+    at eval (eval at compile (/projects/expressjs_demo/node_modules/morgan/index.js:391:10), <anonymous>:5:18)
+    at Array.logRequest (/projects/expressjs_demo/node_modules/morgan/index.js:122:18)
+    at listener (/projects/expressjs_demo/node_modules/on-finished/index.js:169:15)
+    at onFinish (/projects/expressjs_demo/node_modules/on-finished/index.js:100:5)
+    at callback (/projects/expressjs_demo/node_modules/ee-first/index.js:55:10)
+    at ServerResponse.onevent (/projects/expressjs_demo/node_modules/ee-first/index.js:93:5)
+    at emitNone (events.js:110:20)
+    at ServerResponse.emit (events.js:207:7)
+    at onFinish (_http_outgoing.js:718:10)
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+[info] 2018-11-13T03:23:47.186Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:23:47.291Z - test
+[error] 2018-11-13T03:23:47.291Z - error test
+[info] 2018-11-13T03:23:47.301Z - GET /api/auth/test 200 6.462 ms - 47
+[info] 2018-11-13T03:23:48.136Z - test
+[error] 2018-11-13T03:23:48.136Z - error test
+[info] 2018-11-13T03:23:48.138Z - GET /api/auth/test 200 1.600 ms - 47
+[info] 2018-11-13T03:25:06.458Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:25:15.465Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:25:15.943Z - test
+[error] 2018-11-13T03:25:15.943Z - error test
+[info] 2018-11-13T03:25:15.954Z - 127.0.0.1 GET /api/auth/test 200 6.541 ms - 47
+[info] 2018-11-13T03:25:31.046Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:25:33.179Z - test
+[error] 2018-11-13T03:25:33.179Z - error test
+[info] 2018-11-13T03:25:33.188Z - 127.0.0.1 - GET /api/auth/test 200 6.607 ms - 47
+[info] 2018-11-13T03:25:35.731Z - test
+[error] 2018-11-13T03:25:35.731Z - error test
+[info] 2018-11-13T03:25:35.732Z - 127.0.0.1 - GET /api/auth/test 200 1.221 ms - 47
+[info] 2018-11-13T03:25:36.543Z - test
+[error] 2018-11-13T03:25:36.543Z - error test
+[info] 2018-11-13T03:25:36.553Z - 127.0.0.1 - GET /api/auth/test 200 1.037 ms - 47
+[info] 2018-11-13T03:25:37.142Z - test
+[error] 2018-11-13T03:25:37.143Z - error test
+[info] 2018-11-13T03:25:37.143Z - 127.0.0.1 - GET /api/auth/test 200 0.575 ms - 47
+[info] 2018-11-13T03:25:41.530Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:26:51.617Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:27:01.459Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:27:11.621Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:27:31.682Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:27:36.321Z - test
+[error] 2018-11-13T03:27:36.322Z - error test
+[info] 2018-11-13T03:27:36.336Z - 127.0.0.1 - GET /api/auth/test 200 8.679 ms - 47
+[info] 2018-11-13T03:28:17.623Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:28:21.885Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:28:42.445Z - test
+[error] 2018-11-13T03:28:42.446Z - error test
+[info] 2018-11-13T03:28:42.458Z - 127.0.0.1 - GET /api/auth/test 200 7.484 ms - 47
+[info] 2018-11-13T03:29:30.954Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:29:41.113Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:29:45.417Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:29:49.815Z - demo_api Server is running on port: 4000
+[error] 2018-11-13T03:30:00.743Z - uncaughtException: Cannot find module './auth.route'
+Error: Cannot find module './auth.route'
+    at Function.Module._resolveFilename (module.js:527:15)
+    at Function.Module._load (module.js:476:23)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/routes/index.js:1:1)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+[error] 2018-11-13T03:30:16.353Z - uncaughtException: Router.use() requires a middleware function but got a undefined
+TypeError: Router.use() requires a middleware function but got a undefined
+    at Function.use (/projects/expressjs_demo/node_modules/express/lib/router/index.js:458:13)
+    at Function.<anonymous> (/projects/expressjs_demo/node_modules/express/lib/application.js:220:21)
+    at Array.forEach (<anonymous>)
+    at Function.use (/projects/expressjs_demo/node_modules/express/lib/application.js:217:7)
+    at exports.default (/projects/expressjs_demo/conf/routes.js:3:7)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:22:1)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+[error] 2018-11-13T03:30:31.637Z - uncaughtException: Router.use() requires a middleware function but got a undefined
+TypeError: Router.use() requires a middleware function but got a undefined
+    at Function.use (/projects/expressjs_demo/node_modules/express/lib/router/index.js:458:13)
+    at Function.<anonymous> (/projects/expressjs_demo/node_modules/express/lib/application.js:220:21)
+    at Array.forEach (<anonymous>)
+    at Function.use (/projects/expressjs_demo/node_modules/express/lib/application.js:217:7)
+    at exports.default (/projects/expressjs_demo/conf/routes.js:3:7)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:22:1)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+[info] 2018-11-13T03:32:17.080Z - demo_api Server is running on port: 4000
+[error] 2018-11-13T03:32:17.272Z - uncaughtException: listen EADDRINUSE 0.0.0.0:4000
+Error: listen EADDRINUSE 0.0.0.0:4000
+    at Object._errnoException (util.js:1019:11)
+    at _exceptionWithHostPort (util.js:1041:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1344:14)
+    at listenInCluster (net.js:1385:12)
+    at doListen (net.js:1494:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+    at Function.Module.runMain (module.js:667:11)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+    at Module._compile (module.js:624:30)
+[info] 2018-11-13T03:32:36.084Z - 127.0.0.1 - GET /api/test 404 5.360 ms - 147
+[info] 2018-11-13T03:32:47.276Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:32:54.237Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:33:00.429Z - test
+[error] 2018-11-13T03:33:00.430Z - error test
+[info] 2018-11-13T03:33:00.442Z - 127.0.0.1 - GET /api/test 200 7.378 ms - 47
+[info] 2018-11-13T03:33:02.651Z - test
+[error] 2018-11-13T03:33:02.651Z - error test
+[info] 2018-11-13T03:33:02.653Z - 127.0.0.1 - GET /api/test 200 1.491 ms - 47
+[info] 2018-11-13T03:33:43.256Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:33:50.413Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:34:12.266Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:34:43.397Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:35:40.115Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:36:18.433Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:36:36.803Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:39:29.109Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:39:42.308Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:39:48.010Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:40:33.661Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:40:36.442Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:40:43.952Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:40:58.701Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:41:00.883Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:41:05.607Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:41:22.755Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:41:28.236Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:41:32.348Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:41:44.370Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:41:48.627Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:42:00.321Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:42:15.077Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:42:52.789Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:43:06.167Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:43:47.122Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:44:38.765Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:44:54.273Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:45:02.004Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:45:03.767Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:45:14.635Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:45:18.195Z - demo_api Server is running on port: 4000
+[error] 2018-11-13T03:46:03.226Z - uncaughtException: Cannot read property 'getAccessToken' of undefined
+TypeError: Cannot read property 'getAccessToken' of undefined
+    at Object.<anonymous> (/projects/expressjs_demo/routes/sample.route.js:5:17)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/routes/index.js:1:1)
+[error] 2018-11-13T03:46:36.398Z - uncaughtException: getAccessToken is not defined
+ReferenceError: getAccessToken is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/sample.controller.js:10:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/index.js:1:1)
+[error] 2018-11-13T03:47:56.890Z - uncaughtException: getAccessToken is not defined
+ReferenceError: getAccessToken is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/sample.controller.js:11:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/index.js:1:1)
+[error] 2018-11-13T03:48:33.955Z - uncaughtException: getAccessToken is not defined
+ReferenceError: getAccessToken is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/sample.controller.js:11:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/index.js:1:1)
+[error] 2018-11-13T03:48:34.091Z - uncaughtException: getAccessToken is not defined
+ReferenceError: getAccessToken is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/sample.controller.js:11:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/index.js:1:1)
+[error] 2018-11-13T03:48:58.342Z - uncaughtException: getAccessToken is not defined
+ReferenceError: getAccessToken is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/sample.controller.js:11:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/index.js:1:1)
+[error] 2018-11-13T03:49:21.553Z - uncaughtException: getAccessToken is not defined
+ReferenceError: getAccessToken is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/sample.controller.js:11:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/index.js:1:1)
+[error] 2018-11-13T03:49:21.556Z - uncaughtException: getAccessToken is not defined
+ReferenceError: getAccessToken is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/sample.controller.js:11:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/index.js:1:1)
+[error] 2018-11-13T03:49:54.092Z - uncaughtException: getAccessToken is not defined
+ReferenceError: getAccessToken is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/sample.controller.js:9:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/index.js:1:1)
+[error] 2018-11-13T03:51:00.595Z - uncaughtException: getAccessToken is not defined
+ReferenceError: getAccessToken is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/sample.controller.js:9:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/index.js:1:1)
+[error] 2018-11-13T03:51:08.197Z - uncaughtException: getAccessToken is not defined
+ReferenceError: getAccessToken is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/sample.controller.js:9:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/index.js:1:1)
+[error] 2018-11-13T03:51:14.004Z - uncaughtException: getAccessToken is not defined
+ReferenceError: getAccessToken is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/sample.controller.js:9:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/index.js:1:1)
+[error] 2018-11-13T03:51:21.508Z - uncaughtException: getAccessToken is not defined
+ReferenceError: getAccessToken is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/sample.controller.js:9:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/index.js:1:1)
+[error] 2018-11-13T03:51:26.579Z - uncaughtException: getAccessToken is not defined
+ReferenceError: getAccessToken is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/sample.controller.js:9:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/index.js:1:1)
+[error] 2018-11-13T03:51:26.720Z - uncaughtException: getAccessToken is not defined
+ReferenceError: getAccessToken is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/sample.controller.js:9:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/index.js:1:1)
+[error] 2018-11-13T03:51:38.294Z - uncaughtException: getAccessToken is not defined
+ReferenceError: getAccessToken is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/sample.controller.js:9:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/index.js:1:1)
+[error] 2018-11-13T03:51:38.335Z - uncaughtException: getAccessToken is not defined
+ReferenceError: getAccessToken is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/sample.controller.js:9:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/index.js:1:1)
+[error] 2018-11-13T03:51:51.035Z - uncaughtException: getAccessToken is not defined
+ReferenceError: getAccessToken is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/sample.controller.js:9:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/index.js:1:1)
+[error] 2018-11-13T03:52:16.580Z - uncaughtException: getAccessToken is not defined
+ReferenceError: getAccessToken is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/sample.controller.js:9:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/index.js:1:1)
+[error] 2018-11-13T03:52:16.580Z - uncaughtException: getAccessToken is not defined
+ReferenceError: getAccessToken is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/sample.controller.js:9:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/index.js:1:1)
+[error] 2018-11-13T03:52:22.437Z - uncaughtException: getAccessToken is not defined
+ReferenceError: getAccessToken is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/sample.controller.js:9:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/index.js:1:1)
+[error] 2018-11-13T03:52:25.904Z - uncaughtException: getAccessToken is not defined
+ReferenceError: getAccessToken is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/sample.controller.js:9:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/index.js:1:1)
+[error] 2018-11-13T03:52:42.266Z - uncaughtException: getAccessToken is not defined
+ReferenceError: getAccessToken is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/sample.controller.js:9:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/index.js:1:1)
+[error] 2018-11-13T03:52:56.713Z - uncaughtException: getAccessToken is not defined
+ReferenceError: getAccessToken is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/sample.controller.js:9:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/index.js:1:1)
+[error] 2018-11-13T03:53:00.043Z - uncaughtException: getAccessToken is not defined
+ReferenceError: getAccessToken is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/sample.controller.js:9:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/index.js:1:1)
+[error] 2018-11-13T03:53:03.337Z - uncaughtException: getAccessToken is not defined
+ReferenceError: getAccessToken is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/sample.controller.js:9:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/index.js:1:1)
+[error] 2018-11-13T03:53:03.590Z - uncaughtException: getAccessToken is not defined
+ReferenceError: getAccessToken is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/sample.controller.js:9:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/index.js:1:1)
+[error] 2018-11-13T03:53:37.496Z - uncaughtException: getAccessToken is not defined
+ReferenceError: getAccessToken is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/sample.controller.js:9:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/index.js:1:1)
+[error] 2018-11-13T03:53:56.026Z - uncaughtException: getAccessToken is not defined
+ReferenceError: getAccessToken is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/sample.controller.js:9:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/index.js:1:1)
+[error] 2018-11-13T03:53:56.026Z - uncaughtException: getAccessToken is not defined
+ReferenceError: getAccessToken is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/sample.controller.js:9:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/index.js:1:1)
+[error] 2018-11-13T03:54:25.006Z - uncaughtException: Cannot read property 'getAccessToken' of undefined
+TypeError: Cannot read property 'getAccessToken' of undefined
+    at Object.<anonymous> (/projects/expressjs_demo/routes/sample.route.js:5:17)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/routes/index.js:1:1)
+[error] 2018-11-13T03:54:25.006Z - uncaughtException: Cannot read property 'getAccessToken' of undefined
+TypeError: Cannot read property 'getAccessToken' of undefined
+    at Object.<anonymous> (/projects/expressjs_demo/routes/sample.route.js:5:17)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/routes/index.js:1:1)
+[error] 2018-11-13T03:55:26.086Z - uncaughtException: _sample2.default is not a constructor
+TypeError: _sample2.default is not a constructor
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/index.js:4:23)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/routes/sample.route.js:2:1)
+[error] 2018-11-13T03:55:26.086Z - uncaughtException: _sample2.default is not a constructor
+TypeError: _sample2.default is not a constructor
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/index.js:4:23)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/routes/sample.route.js:2:1)
+[error] 2018-11-13T03:55:35.447Z - uncaughtException: sampleController is not defined
+ReferenceError: sampleController is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/index.js:4:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/routes/sample.route.js:2:1)
+[error] 2018-11-13T03:56:04.390Z - uncaughtException: sampleController is not defined
+ReferenceError: sampleController is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/index.js:4:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/routes/sample.route.js:2:1)
+[error] 2018-11-13T03:56:10.584Z - uncaughtException: testController is not defined
+ReferenceError: testController is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/index.js:4:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/routes/sample.route.js:2:1)
+[error] 2018-11-13T03:56:13.115Z - uncaughtException: Cannot read property 'getAccessToken' of undefined
+TypeError: Cannot read property 'getAccessToken' of undefined
+    at Object.<anonymous> (/projects/expressjs_demo/routes/sample.route.js:5:17)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/routes/index.js:1:1)
+[error] 2018-11-13T03:56:13.264Z - uncaughtException: Cannot read property 'getAccessToken' of undefined
+TypeError: Cannot read property 'getAccessToken' of undefined
+    at Object.<anonymous> (/projects/expressjs_demo/routes/sample.route.js:5:17)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/routes/index.js:1:1)
+[info] 2018-11-13T03:56:28.293Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T03:56:31.860Z - test
+[error] 2018-11-13T03:56:31.861Z - error test
+[info] 2018-11-13T03:56:31.875Z - 127.0.0.1 - GET /api/test 200 7.517 ms - 47
+[info] 2018-11-13T03:56:42.995Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:00:46.065Z - test
+[error] 2018-11-13T05:00:46.066Z - error test
+[info] 2018-11-13T05:00:46.093Z - 127.0.0.1 - GET /api/test 200 20.607 ms - 47
+[info] 2018-11-13T05:00:47.128Z - test
+[error] 2018-11-13T05:00:47.128Z - error test
+[info] 2018-11-13T05:00:47.130Z - 127.0.0.1 - GET /api/test 200 1.583 ms - 47
+[info] 2018-11-13T05:01:03.894Z - test
+[error] 2018-11-13T05:01:03.897Z - error test
+[error] 2018-11-13T05:01:03.906Z - uncaughtException: Cannot read property 'json' of undefined
+TypeError: Cannot read property 'json' of undefined
+    at new testController (/projects/expressjs_demo/controllers/sample.controller.js:8:5)
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/sample.controller.js:3:1)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+[error] 2018-11-13T05:01:38.845Z - uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.(anonymous function) [as get] (/projects/expressjs_demo/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.(anonymous function) [as get] (/projects/expressjs_demo/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/projects/expressjs_demo/routes/sample.route.js:5:8)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+[error] 2018-11-13T05:01:59.613Z - uncaughtException: Cannot read property 'testController' of undefined
+TypeError: Cannot read property 'testController' of undefined
+    at Object.<anonymous> (/projects/expressjs_demo/routes/sample.route.js:5:17)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/routes/index.js:1:1)
+[error] 2018-11-13T05:02:07.373Z - uncaughtException: Cannot read property 'testController' of undefined
+TypeError: Cannot read property 'testController' of undefined
+    at Object.<anonymous> (/projects/expressjs_demo/routes/sample.route.js:5:17)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/routes/index.js:1:1)
+[error] 2018-11-13T05:02:14.243Z - uncaughtException: Cannot read property 'testController' of undefined
+TypeError: Cannot read property 'testController' of undefined
+    at Object.<anonymous> (/projects/expressjs_demo/routes/sample.route.js:5:17)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/routes/index.js:1:1)
+[error] 2018-11-13T05:02:39.384Z - uncaughtException: Cannot read property 'testController' of undefined
+TypeError: Cannot read property 'testController' of undefined
+    at Object.<anonymous> (/projects/expressjs_demo/routes/sample.route.js:5:17)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/routes/index.js:1:1)
+[info] 2018-11-13T05:02:45.052Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:02:46.908Z - test
+[error] 2018-11-13T05:02:46.909Z - error test
+[info] 2018-11-13T05:02:46.917Z - 127.0.0.1 - GET /api/test 200 5.140 ms - 47
+[info] 2018-11-13T05:02:50.557Z - test
+[error] 2018-11-13T05:02:50.558Z - error test
+[info] 2018-11-13T05:02:50.559Z - 127.0.0.1 - GET /api/test 200 0.831 ms - 47
+[info] 2018-11-13T05:02:59.828Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:03:26.501Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:03:28.536Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:04:49.639Z - demo_api Server is running on port: 4000
+[error] 2018-11-13T05:04:53.520Z - uncaughtException: sampleController is not defined
+ReferenceError: sampleController is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/index.js:3:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/routes/sample.route.js:2:1)
+[error] 2018-11-13T05:06:42.919Z - uncaughtException: sampleController is not defined
+ReferenceError: sampleController is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/index.js:3:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/routes/sample.route.js:2:1)
+[error] 2018-11-13T05:06:42.919Z - uncaughtException: sampleController is not defined
+ReferenceError: sampleController is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/index.js:3:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/routes/sample.route.js:2:1)
+[error] 2018-11-13T05:06:46.043Z - uncaughtException: sampleController is not defined
+ReferenceError: sampleController is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/index.js:3:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/routes/sample.route.js:2:1)
+[error] 2018-11-13T05:06:46.179Z - uncaughtException: sampleController is not defined
+ReferenceError: sampleController is not defined
+    at Object.<anonymous> (/projects/expressjs_demo/controllers/index.js:3:5)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/routes/sample.route.js:2:1)
+[info] 2018-11-13T05:06:55.398Z - demo_api Server is running on port: 4000
+[error] 2018-11-13T05:06:55.637Z - uncaughtException: listen EADDRINUSE 0.0.0.0:4000
+Error: listen EADDRINUSE 0.0.0.0:4000
+    at Object._errnoException (util.js:1019:11)
+    at _exceptionWithHostPort (util.js:1041:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1344:14)
+    at listenInCluster (net.js:1385:12)
+    at doListen (net.js:1494:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+    at Function.Module.runMain (module.js:667:11)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+    at Module._compile (module.js:624:30)
+[error] 2018-11-13T05:06:55.770Z - uncaughtException: listen EADDRINUSE 0.0.0.0:4000
+Error: listen EADDRINUSE 0.0.0.0:4000
+    at Object._errnoException (util.js:1019:11)
+    at _exceptionWithHostPort (util.js:1041:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1344:14)
+    at listenInCluster (net.js:1385:12)
+    at doListen (net.js:1494:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+    at Function.Module.runMain (module.js:667:11)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+    at Module._compile (module.js:624:30)
+[error] 2018-11-13T05:07:33.959Z - uncaughtException: listen EADDRINUSE 0.0.0.0:4000
+Error: listen EADDRINUSE 0.0.0.0:4000
+    at Object._errnoException (util.js:1019:11)
+    at _exceptionWithHostPort (util.js:1041:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1344:14)
+    at listenInCluster (net.js:1385:12)
+    at doListen (net.js:1494:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+    at Function.Module.runMain (module.js:667:11)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+    at Module._compile (module.js:624:30)
+[info] 2018-11-13T05:07:35.215Z - test
+[error] 2018-11-13T05:07:35.216Z - error test
+[info] 2018-11-13T05:07:35.226Z - 127.0.0.1 - GET /api/test 200 6.781 ms - 47
+[error] 2018-11-13T05:07:40.187Z - uncaughtException: listen EADDRINUSE 0.0.0.0:4000
+Error: listen EADDRINUSE 0.0.0.0:4000
+    at Object._errnoException (util.js:1019:11)
+    at _exceptionWithHostPort (util.js:1041:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1344:14)
+    at listenInCluster (net.js:1385:12)
+    at doListen (net.js:1494:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+    at Function.Module.runMain (module.js:667:11)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+    at Module._compile (module.js:624:30)
+[error] 2018-11-13T05:07:45.805Z - uncaughtException: listen EADDRINUSE 0.0.0.0:4000
+Error: listen EADDRINUSE 0.0.0.0:4000
+    at Object._errnoException (util.js:1019:11)
+    at _exceptionWithHostPort (util.js:1041:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1344:14)
+    at listenInCluster (net.js:1385:12)
+    at doListen (net.js:1494:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+    at Function.Module.runMain (module.js:667:11)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+    at Module._compile (module.js:624:30)
+[error] 2018-11-13T05:07:45.842Z - uncaughtException: listen EADDRINUSE 0.0.0.0:4000
+Error: listen EADDRINUSE 0.0.0.0:4000
+    at Object._errnoException (util.js:1019:11)
+    at _exceptionWithHostPort (util.js:1041:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1344:14)
+    at listenInCluster (net.js:1385:12)
+    at doListen (net.js:1494:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+    at Function.Module.runMain (module.js:667:11)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+    at Module._compile (module.js:624:30)
+[error] 2018-11-13T05:10:27.188Z - uncaughtException: listen EADDRINUSE 0.0.0.0:4000
+Error: listen EADDRINUSE 0.0.0.0:4000
+    at Object._errnoException (util.js:1019:11)
+    at _exceptionWithHostPort (util.js:1041:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1344:14)
+    at listenInCluster (net.js:1385:12)
+    at doListen (net.js:1494:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+    at Function.Module.runMain (module.js:667:11)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+    at Module._compile (module.js:624:30)
+[error] 2018-11-13T05:10:27.190Z - uncaughtException: listen EADDRINUSE 0.0.0.0:4000
+Error: listen EADDRINUSE 0.0.0.0:4000
+    at Object._errnoException (util.js:1019:11)
+    at _exceptionWithHostPort (util.js:1041:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1344:14)
+    at listenInCluster (net.js:1385:12)
+    at doListen (net.js:1494:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+    at Function.Module.runMain (module.js:667:11)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+    at Module._compile (module.js:624:30)
+[error] 2018-11-13T05:10:29.232Z - uncaughtException: listen EADDRINUSE 0.0.0.0:4000
+Error: listen EADDRINUSE 0.0.0.0:4000
+    at Object._errnoException (util.js:1019:11)
+    at _exceptionWithHostPort (util.js:1041:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1344:14)
+    at listenInCluster (net.js:1385:12)
+    at doListen (net.js:1494:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+    at Function.Module.runMain (module.js:667:11)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+    at Module._compile (module.js:624:30)
+[error] 2018-11-13T05:10:33.949Z - uncaughtException: listen EADDRINUSE 0.0.0.0:4000
+Error: listen EADDRINUSE 0.0.0.0:4000
+    at Object._errnoException (util.js:1019:11)
+    at _exceptionWithHostPort (util.js:1041:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1344:14)
+    at listenInCluster (net.js:1385:12)
+    at doListen (net.js:1494:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+    at Function.Module.runMain (module.js:667:11)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+    at Module._compile (module.js:624:30)
+[error] 2018-11-13T05:10:34.168Z - uncaughtException: listen EADDRINUSE 0.0.0.0:4000
+Error: listen EADDRINUSE 0.0.0.0:4000
+    at Object._errnoException (util.js:1019:11)
+    at _exceptionWithHostPort (util.js:1041:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1344:14)
+    at listenInCluster (net.js:1385:12)
+    at doListen (net.js:1494:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+    at Function.Module.runMain (module.js:667:11)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+    at Module._compile (module.js:624:30)
+[error] 2018-11-13T05:11:11.919Z - uncaughtException: listen EADDRINUSE 0.0.0.0:4000
+Error: listen EADDRINUSE 0.0.0.0:4000
+    at Object._errnoException (util.js:1019:11)
+    at _exceptionWithHostPort (util.js:1041:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1344:14)
+    at listenInCluster (net.js:1385:12)
+    at doListen (net.js:1494:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+    at Function.Module.runMain (module.js:667:11)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+    at Module._compile (module.js:624:30)
+[error] 2018-11-13T05:11:26.720Z - uncaughtException: Cannot read property 'testController' of undefined
+TypeError: Cannot read property 'testController' of undefined
+    at Object.<anonymous> (/projects/expressjs_demo/routes/sample.route.js:5:17)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/routes/index.js:1:1)
+[error] 2018-11-13T05:11:43.319Z - uncaughtException: listen EADDRINUSE 0.0.0.0:4000
+Error: listen EADDRINUSE 0.0.0.0:4000
+    at Object._errnoException (util.js:1019:11)
+    at _exceptionWithHostPort (util.js:1041:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1344:14)
+    at listenInCluster (net.js:1385:12)
+    at doListen (net.js:1494:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+    at Function.Module.runMain (module.js:667:11)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+    at Module._compile (module.js:624:30)
+[error] 2018-11-13T05:11:43.404Z - uncaughtException: listen EADDRINUSE 0.0.0.0:4000
+Error: listen EADDRINUSE 0.0.0.0:4000
+    at Object._errnoException (util.js:1019:11)
+    at _exceptionWithHostPort (util.js:1041:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1344:14)
+    at listenInCluster (net.js:1385:12)
+    at doListen (net.js:1494:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+    at Function.Module.runMain (module.js:667:11)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+    at Module._compile (module.js:624:30)
+[info] 2018-11-13T05:13:00.782Z - test
+[error] 2018-11-13T05:13:00.782Z - error test
+[info] 2018-11-13T05:13:00.784Z - 127.0.0.1 - GET /api/test 200 1.785 ms - 47
+[info] 2018-11-13T05:13:02.077Z - test
+[error] 2018-11-13T05:13:02.078Z - error test
+[info] 2018-11-13T05:13:02.079Z - 127.0.0.1 - GET /api/test 200 1.036 ms - 47
+[info] 2018-11-13T05:13:03.130Z - test
+[error] 2018-11-13T05:13:03.131Z - error test
+[info] 2018-11-13T05:13:03.131Z - 127.0.0.1 - GET /api/test 200 0.786 ms - 47
+[error] 2018-11-13T05:13:21.714Z - uncaughtException: Router.use() requires a middleware function but got a undefined
+TypeError: Router.use() requires a middleware function but got a undefined
+    at Function.use (/projects/expressjs_demo/node_modules/express/lib/router/index.js:458:13)
+    at Function.<anonymous> (/projects/expressjs_demo/node_modules/express/lib/application.js:220:21)
+    at Array.forEach (<anonymous>)
+    at Function.use (/projects/expressjs_demo/node_modules/express/lib/application.js:217:7)
+    at exports.default (/projects/expressjs_demo/conf/routes.js:3:7)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:20:1)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+[error] 2018-11-13T05:13:47.465Z - uncaughtException: listen EADDRINUSE 0.0.0.0:4000
+Error: listen EADDRINUSE 0.0.0.0:4000
+    at Object._errnoException (util.js:1019:11)
+    at _exceptionWithHostPort (util.js:1041:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1344:14)
+    at listenInCluster (net.js:1385:12)
+    at doListen (net.js:1494:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+    at Function.Module.runMain (module.js:667:11)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+    at Module._compile (module.js:624:30)
+[error] 2018-11-13T05:13:57.514Z - uncaughtException: listen EADDRINUSE 0.0.0.0:4000
+Error: listen EADDRINUSE 0.0.0.0:4000
+    at Object._errnoException (util.js:1019:11)
+    at _exceptionWithHostPort (util.js:1041:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1344:14)
+    at listenInCluster (net.js:1385:12)
+    at doListen (net.js:1494:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+    at Function.Module.runMain (module.js:667:11)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+    at Module._compile (module.js:624:30)
+[error] 2018-11-13T05:15:20.112Z - uncaughtException: listen EADDRINUSE 0.0.0.0:4000
+Error: listen EADDRINUSE 0.0.0.0:4000
+    at Object._errnoException (util.js:1019:11)
+    at _exceptionWithHostPort (util.js:1041:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1344:14)
+    at listenInCluster (net.js:1385:12)
+    at doListen (net.js:1494:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+    at Function.Module.runMain (module.js:667:11)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+    at Module._compile (module.js:624:30)
+[error] 2018-11-13T05:15:22.491Z - uncaughtException: listen EADDRINUSE 0.0.0.0:4000
+Error: listen EADDRINUSE 0.0.0.0:4000
+    at Object._errnoException (util.js:1019:11)
+    at _exceptionWithHostPort (util.js:1041:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1344:14)
+    at listenInCluster (net.js:1385:12)
+    at doListen (net.js:1494:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+    at Function.Module.runMain (module.js:667:11)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+    at Module._compile (module.js:624:30)
+[info] 2018-11-13T05:15:24.314Z - test
+[error] 2018-11-13T05:15:24.316Z - error test
+[info] 2018-11-13T05:15:24.319Z - 127.0.0.1 - GET /api/test 200 5.090 ms - 47
+[info] 2018-11-13T05:15:25.402Z - test
+[error] 2018-11-13T05:15:25.403Z - error test
+[info] 2018-11-13T05:15:25.403Z - 127.0.0.1 - GET /api/test 200 0.831 ms - 47
+[info] 2018-11-13T05:15:26.275Z - test
+[error] 2018-11-13T05:15:26.275Z - error test
+[info] 2018-11-13T05:15:26.276Z - 127.0.0.1 - GET /api/test 200 0.702 ms - 47
+[info] 2018-11-13T05:15:27.111Z - test
+[error] 2018-11-13T05:15:27.111Z - error test
+[info] 2018-11-13T05:15:27.112Z - 127.0.0.1 - GET /api/test 200 0.870 ms - 47
+[info] 2018-11-13T05:15:27.809Z - test
+[error] 2018-11-13T05:15:27.810Z - error test
+[info] 2018-11-13T05:15:27.810Z - 127.0.0.1 - GET /api/test 200 0.725 ms - 47
+[info] 2018-11-13T05:15:28.229Z - test
+[error] 2018-11-13T05:15:28.229Z - error test
+[info] 2018-11-13T05:15:28.230Z - 127.0.0.1 - GET /api/test 200 0.842 ms - 47
+[info] 2018-11-13T05:15:33.300Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:15:35.146Z - test
+[error] 2018-11-13T05:15:35.147Z - error test
+[info] 2018-11-13T05:15:35.155Z - 127.0.0.1 - GET /api/test 200 5.210 ms - 19
+[info] 2018-11-13T05:15:36.110Z - test
+[error] 2018-11-13T05:15:36.110Z - error test
+[info] 2018-11-13T05:15:36.111Z - 127.0.0.1 - GET /api/test 200 0.927 ms - 19
+[info] 2018-11-13T05:15:36.966Z - test
+[error] 2018-11-13T05:15:36.967Z - error test
+[info] 2018-11-13T05:15:36.968Z - 127.0.0.1 - GET /api/test 200 0.790 ms - 19
+[info] 2018-11-13T05:15:37.735Z - test
+[error] 2018-11-13T05:15:37.735Z - error test
+[info] 2018-11-13T05:15:37.736Z - 127.0.0.1 - GET /api/test 200 0.587 ms - 19
+[info] 2018-11-13T05:15:49.953Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:15:52.295Z - test
+[error] 2018-11-13T05:15:52.296Z - error test
+[info] 2018-11-13T05:15:52.306Z - 127.0.0.1 - GET /api/test 200 6.867 ms - 19
+[info] 2018-11-13T05:15:54.523Z - test
+[error] 2018-11-13T05:15:54.523Z - error test
+[info] 2018-11-13T05:15:54.525Z - 127.0.0.1 - GET /api/test 200 1.322 ms - 19
+[info] 2018-11-13T05:16:35.146Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:16:38.262Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:16:40.236Z - test
+[error] 2018-11-13T05:16:40.236Z - error test
+[info] 2018-11-13T05:16:40.246Z - 127.0.0.1 - GET /api/test 200 6.300 ms - 47
+[info] 2018-11-13T05:16:41.379Z - test
+[error] 2018-11-13T05:16:41.380Z - error test
+[info] 2018-11-13T05:16:41.381Z - 127.0.0.1 - GET /api/test 200 1.089 ms - 47
+[info] 2018-11-13T05:16:42.693Z - test
+[error] 2018-11-13T05:16:42.693Z - error test
+[info] 2018-11-13T05:16:42.694Z - 127.0.0.1 - GET /api/test 200 1.003 ms - 47
+[info] 2018-11-13T05:16:43.600Z - test
+[error] 2018-11-13T05:16:43.600Z - error test
+[info] 2018-11-13T05:16:43.601Z - 127.0.0.1 - GET /api/test 200 0.897 ms - 47
+[info] 2018-11-13T05:16:44.181Z - test
+[error] 2018-11-13T05:16:44.181Z - error test
+[info] 2018-11-13T05:16:44.182Z - 127.0.0.1 - GET /api/test 200 0.629 ms - 47
+[info] 2018-11-13T05:16:44.686Z - test
+[error] 2018-11-13T05:16:44.686Z - error test
+[info] 2018-11-13T05:16:44.687Z - 127.0.0.1 - GET /api/test 200 0.715 ms - 47
+[info] 2018-11-13T05:16:45.164Z - test
+[error] 2018-11-13T05:16:45.164Z - error test
+[info] 2018-11-13T05:16:45.165Z - 127.0.0.1 - GET /api/test 200 1.078 ms - 47
+[info] 2018-11-13T05:17:16.412Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:17:20.347Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:17:21.078Z - test
+[error] 2018-11-13T05:17:21.078Z - error test
+[info] 2018-11-13T05:17:21.088Z - 127.0.0.1 - GET /api/test 200 5.870 ms - 47
+[info] 2018-11-13T05:17:27.007Z - 127.0.0.1 - GET /api/testa 404 0.553 ms - 40
+[info] 2018-11-13T05:18:18.368Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:19:25.400Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:19:26.243Z - 127.0.0.1 - GET /api/testa 500 9.655 ms - 29
+[info] 2018-11-13T05:19:28.476Z - 127.0.0.1 - GET /api/testa 500 1.021 ms - 29
+[info] 2018-11-13T05:19:33.045Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:21:19.304Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:21:46.294Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:21:49.332Z - 127.0.0.1 - GET /api/testa 200 12.208 ms - 1027
+[info] 2018-11-13T05:22:04.242Z - 127.0.0.1 - GET /api/testa 200 2.700 ms - 1027
+[info] 2018-11-13T05:22:12.423Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:22:28.772Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:22:28.978Z - 127.0.0.1 - GET /api/testa 200 9.177 ms - 999
+[info] 2018-11-13T05:22:30.651Z - 127.0.0.1 - GET /api/testa 200 1.233 ms - 999
+[info] 2018-11-13T05:22:31.757Z - 127.0.0.1 - GET /api/testa 200 1.534 ms - 999
+[info] 2018-11-13T05:22:33.221Z - 127.0.0.1 - GET /api/testa 200 0.980 ms - 999
+[info] 2018-11-13T05:22:48.748Z - 127.0.0.1 - GET /api/testa 200 2.796 ms - 999
+[info] 2018-11-13T05:22:58.978Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:23:08.992Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:23:10.443Z - 127.0.0.1 - GET /api/testa 404 8.953 ms - 24
+[info] 2018-11-13T05:23:11.642Z - 127.0.0.1 - GET /api/testa 404 1.174 ms - 24
+[info] 2018-11-13T05:23:15.419Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:23:15.904Z - 127.0.0.1 - GET /api/testa 200 10.034 ms - 1000
+[info] 2018-11-13T05:23:28.815Z - 127.0.0.1 - GET /api/testa 200 1.480 ms - 1000
+[info] 2018-11-13T05:23:39.930Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:23:39.984Z - 127.0.0.1 - GET /api/testa 500 9.276 ms - 24
+[info] 2018-11-13T05:23:41.086Z - 127.0.0.1 - GET /api/testa 500 1.055 ms - 24
+[info] 2018-11-13T05:23:42.190Z - 127.0.0.1 - GET /api/testa 500 1.049 ms - 24
+[info] 2018-11-13T05:23:42.916Z - 127.0.0.1 - GET /api/testa 500 0.758 ms - 24
+[info] 2018-11-13T05:23:43.354Z - 127.0.0.1 - GET /api/testa 500 0.851 ms - 24
+[info] 2018-11-13T05:23:43.767Z - 127.0.0.1 - GET /api/testa 500 0.970 ms - 24
+[info] 2018-11-13T05:23:44.816Z - 127.0.0.1 - GET /api/testa 500 1.112 ms - 24
+[info] 2018-11-13T05:23:58.115Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:23:58.897Z - 127.0.0.1 - GET /api/testa 200 9.631 ms - 1000
+[info] 2018-11-13T05:24:15.069Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:24:17.139Z - 127.0.0.1 - GET /api/testa 400 8.334 ms - 24
+[info] 2018-11-13T05:24:53.234Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:24:54.081Z - 127.0.0.1 - GET /api/testa 400 9.761 ms - 72
+[info] 2018-11-13T05:24:59.113Z - 127.0.0.1 - GET /api/testa 400 1.247 ms - 72
+[info] 2018-11-13T05:25:25.703Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:26:23.671Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:26:30.568Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:26:31.583Z - 127.0.0.1 - GET /api/testa 404 9.689 ms - 1164
+[info] 2018-11-13T05:26:33.462Z - 127.0.0.1 - GET /api/testa 404 1.340 ms - 1164
+[info] 2018-11-13T05:26:48.850Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:26:49.011Z - 127.0.0.1 - GET /api/testa 400 9.191 ms - 72
+[info] 2018-11-13T05:26:51.179Z - 127.0.0.1 - GET /api/testa 400 1.200 ms - 72
+[info] 2018-11-13T05:26:52.735Z - 127.0.0.1 - GET /api/testa 400 1.565 ms - 72
+[info] 2018-11-13T05:26:54.743Z - 127.0.0.1 - GET /api/testa 400 0.923 ms - 72
+[info] 2018-11-13T05:26:55.539Z - 127.0.0.1 - GET /api/testa 400 1.192 ms - 72
+[info] 2018-11-13T05:26:56.192Z - 127.0.0.1 - GET /api/testa 400 1.300 ms - 72
+[info] 2018-11-13T05:27:29.714Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:27:35.045Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:27:37.469Z - 127.0.0.1 - GET /api/testa 404 4.202 ms - 148
+[info] 2018-11-13T05:27:59.562Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:28:00.316Z - 127.0.0.1 - GET /api/testa 400 8.929 ms - 72
+[info] 2018-11-13T05:28:16.403Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:28:16.647Z - 127.0.0.1 - GET /api/testa 500 9.234 ms - 999
+[info] 2018-11-13T05:28:29.705Z - 127.0.0.1 - GET /api/testa 500 1.391 ms - 999
+[info] 2018-11-13T05:28:33.308Z - 127.0.0.1 - GET /api/testa 500 2.269 ms - 999
+[info] 2018-11-13T05:28:34.958Z - 127.0.0.1 - GET /api/testa 500 2.492 ms - 999
+[info] 2018-11-13T05:28:40.610Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:28:41.333Z - 127.0.0.1 - GET /api/testa 401 9.172 ms - 72
+[info] 2018-11-13T05:28:42.855Z - 127.0.0.1 - GET /api/testa 401 1.569 ms - 72
+[info] 2018-11-13T05:28:48.759Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:28:49.398Z - 127.0.0.1 - GET /api/testa 400 10.794 ms - 72
+[info] 2018-11-13T05:29:11.486Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:29:21.091Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:29:21.670Z - 127.0.0.1 - GET /api/testa 200 11.971 ms - 1027
+[info] 2018-11-13T05:29:32.809Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:29:33.566Z - 127.0.0.1 - GET /api/testa 200 9.988 ms - 1027
+[info] 2018-11-13T05:29:45.001Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:29:45.864Z - 127.0.0.1 - GET /api/testa 500 9.887 ms - 999
+[info] 2018-11-13T05:29:46.987Z - 127.0.0.1 - GET /api/testa 500 1.395 ms - 999
+[info] 2018-11-13T05:29:59.959Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:30:01.838Z - 127.0.0.1 - GET /api/testa 200 9.664 ms - 1027
+[info] 2018-11-13T05:30:11.687Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:30:11.849Z - 127.0.0.1 - GET /api/testa 500 9.891 ms - 1000
+[info] 2018-11-13T05:30:16.454Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:30:16.718Z - 127.0.0.1 - GET /api/testa 404 9.182 ms - 72
+[info] 2018-11-13T05:30:26.091Z - 127.0.0.1 - GET /api/testa 404 1.595 ms - 72
+[info] 2018-11-13T05:30:27.020Z - 127.0.0.1 - GET /api/testa 404 1.025 ms - 72
+[info] 2018-11-13T05:30:36.759Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:30:46.555Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:30:47.018Z - 127.0.0.1 - GET /api/testa 500 10.594 ms - 967
+[info] 2018-11-13T05:31:15.704Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:31:16.081Z - 127.0.0.1 - GET /api/testa 404 10.290 ms - 73
+[info] 2018-11-13T05:31:22.215Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:31:22.807Z - 127.0.0.1 - GET /api/testa 200 11.030 ms - 995
+[info] 2018-11-13T05:31:30.323Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:31:33.175Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:31:34.018Z - 127.0.0.1 - GET /api/testa 500 10.716 ms - 967
+[info] 2018-11-13T05:31:44.900Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:31:45.571Z - 127.0.0.1 - GET /api/testa 500 28.814 ms - 967
+[info] 2018-11-13T05:32:08.083Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:32:11.816Z - 127.0.0.1 - GET /api/testa 500 12.129 ms - 967
+[info] 2018-11-13T05:32:29.065Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:32:31.356Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:32:36.622Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:32:37.129Z - 127.0.0.1 - GET /api/testa 404 9.783 ms - 1165
+[info] 2018-11-13T05:32:38.279Z - 127.0.0.1 - GET /api/testa 404 1.455 ms - 1165
+[info] 2018-11-13T05:32:49.877Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:32:49.924Z - 127.0.0.1 - GET /api/testa 200 13.473 ms - 1028
+[info] 2018-11-13T05:33:03.861Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:33:06.104Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:33:07.825Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:33:14.465Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:33:20.131Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:33:20.632Z - 127.0.0.1 - GET /api/testa 500 11.426 ms - 967
+[info] 2018-11-13T05:33:32.067Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:33:36.533Z - 127.0.0.1 - GET /api/testa 500 13.856 ms - 967
+[info] 2018-11-13T05:35:06.849Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:35:08.455Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:35:16.856Z - 127.0.0.1 - GET /api/testa 404 9.555 ms - 1165
+[info] 2018-11-13T05:35:29.279Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:35:34.664Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:35:35.194Z - 127.0.0.1 - GET /api/testa 400 9.242 ms - 72
+[info] 2018-11-13T05:35:42.418Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:35:43.158Z - 127.0.0.1 - GET /api/testa 200 10.209 ms - 1028
+[info] 2018-11-13T05:36:04.468Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:36:08.400Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:36:08.630Z - 127.0.0.1 - GET /api/testa 500 9.410 ms - 1000
+[info] 2018-11-13T05:36:11.947Z - 127.0.0.1 - GET /api/testa 500 1.234 ms - 1000
+[info] 2018-11-13T05:37:12.281Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:37:22.470Z - 127.0.0.1 - GET /api/testa 404 11.749 ms - 72
+[info] 2018-11-13T05:37:29.989Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:37:31.084Z - 127.0.0.1 - GET /api/testa 404 9.878 ms - 72
+[info] 2018-11-13T05:37:32.758Z - 127.0.0.1 - GET /api/testa 404 1.148 ms - 72
+[info] 2018-11-13T05:37:36.948Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:37:37.922Z - 127.0.0.1 - GET /api/testa 404 9.874 ms - 72
+[info] 2018-11-13T05:37:38.963Z - 127.0.0.1 - GET /api/testa 404 1.343 ms - 72
+[info] 2018-11-13T05:39:17.316Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:39:18.631Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:39:23.369Z - 127.0.0.1 - GET /api/testa 404 11.063 ms - 104
+[info] 2018-11-13T05:40:31.108Z - 127.0.0.1 - GET /api/testa 404 3.426 ms - 104
+[info] 2018-11-13T05:40:39.379Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:40:47.939Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:40:49.169Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:40:50.551Z - 127.0.0.1 - GET /api/testa 404 8.930 ms - 104
+[info] 2018-11-13T05:40:51.712Z - 127.0.0.1 - GET /api/testa 404 1.243 ms - 104
+[info] 2018-11-13T05:40:52.859Z - 127.0.0.1 - GET /api/testa 404 1.395 ms - 104
+[info] 2018-11-13T05:40:59.328Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:40:59.476Z - 127.0.0.1 - GET /api/testa 404 9.704 ms - 104
+[info] 2018-11-13T05:41:00.521Z - 127.0.0.1 - GET /api/testa 404 1.280 ms - 104
+[info] 2018-11-13T05:41:01.475Z - 127.0.0.1 - GET /api/testa 404 1.161 ms - 104
+[info] 2018-11-13T05:41:04.950Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:41:05.670Z - 127.0.0.1 - GET /api/testa 404 9.012 ms - 104
+[info] 2018-11-13T05:41:12.945Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:41:13.460Z - 127.0.0.1 - GET /api/testa 500 9.432 ms - 1063
+[info] 2018-11-13T05:41:19.408Z - 127.0.0.1 - GET /api/testa 500 1.408 ms - 1063
+[info] 2018-11-13T05:41:20.736Z - 127.0.0.1 - GET /api/testa 500 1.161 ms - 1063
+[info] 2018-11-13T05:41:21.503Z - 127.0.0.1 - GET /api/testa 500 1.437 ms - 1063
+[info] 2018-11-13T05:41:23.296Z - 127.0.0.1 - GET /api/testa 500 1.021 ms - 1063
+[info] 2018-11-13T05:41:28.606Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:41:29.021Z - 127.0.0.1 - GET /api/testa 507 8.878 ms - 1063
+[info] 2018-11-13T05:41:38.683Z - 127.0.0.1 - GET /api/testa 507 1.582 ms - 1063
+[info] 2018-11-13T05:41:45.919Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T05:41:46.076Z - 127.0.0.1 - GET /api/testa 404 9.909 ms - 104
+[info] 2018-11-13T05:43:57.895Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T06:37:17.696Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T06:37:25.258Z - 127.0.0.1 - GET /api/testa 404 9.967 ms - 1197
+[info] 2018-11-13T06:37:27.730Z - 127.0.0.1 - GET /api/testa 404 1.069 ms - 1197
+[info] 2018-11-13T06:37:29.966Z - test
+[error] 2018-11-13T06:37:29.967Z - error test
+[info] 2018-11-13T06:37:29.971Z - 127.0.0.1 - GET /api/test 200 4.076 ms - 47
+[info] 2018-11-13T06:37:32.772Z - 127.0.0.1 - GET /api/testa 404 1.273 ms - 1197
+[info] 2018-11-13T06:37:34.318Z - 127.0.0.1 - GET /api/testa 404 2.146 ms - 1197
+[info] 2018-11-13T06:38:11.563Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T06:38:18.480Z - test
+[error] 2018-11-13T06:38:18.481Z - error test
+[info] 2018-11-13T06:38:18.492Z - 127.0.0.1 - GET /api/test 200 7.081 ms - 47
+[info] 2018-11-13T06:39:06.730Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T06:39:07.152Z - test
+[error] 2018-11-13T06:39:07.152Z - error test
+[info] 2018-11-13T06:39:07.161Z - 127.0.0.1 - GET /api/test 200 6.585 ms - 47
+[info] 2018-11-13T06:39:08.049Z - test
+[error] 2018-11-13T06:39:08.049Z - error test
+[info] 2018-11-13T06:39:08.050Z - 127.0.0.1 - GET /api/test 200 1.071 ms - 47
+[info] 2018-11-13T06:39:08.933Z - test
+[error] 2018-11-13T06:39:08.933Z - error test
+[info] 2018-11-13T06:39:08.934Z - 127.0.0.1 - GET /api/test 200 0.857 ms - 47
+[info] 2018-11-13T06:39:14.510Z - 127.0.0.1 - GET /api/test/a 404 8.205 ms - 1190
+[info] 2018-11-13T06:39:19.004Z - 127.0.0.1 - GET /api/testa 404 1.287 ms - 1197
+[info] 2018-11-13T06:39:39.330Z - 127.0.0.1 - GET /api/testa 404 2.713 ms - 1197
+[info] 2018-11-13T06:39:46.126Z - 127.0.0.1 - GET /api/testa 404 1.806 ms - 1197
+[info] 2018-11-13T06:39:46.883Z - 127.0.0.1 - GET /api/testa 404 1.433 ms - 1197
+[info] 2018-11-13T06:39:58.111Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T06:39:58.714Z - 127.0.0.1 - GET /api/testa 404 11.885 ms - 1197
+[info] 2018-11-13T06:40:00.187Z - 127.0.0.1 - GET /api/testa 404 1.708 ms - 1197
+[info] 2018-11-13T06:40:07.099Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T06:40:07.857Z - 127.0.0.1 - GET /api/testa 404 8.698 ms - 1197
+[info] 2018-11-13T06:40:09.131Z - 127.0.0.1 - GET /api/testa 404 1.395 ms - 1197
+[info] 2018-11-13T06:40:10.038Z - 127.0.0.1 - GET /api/testa 404 1.008 ms - 1197
+[info] 2018-11-13T06:40:13.766Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T06:40:14.390Z - 127.0.0.1 - GET /api/testa 404 8.265 ms - 1197
+[info] 2018-11-13T06:40:25.689Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T06:40:26.538Z - 127.0.0.1 - GET /api/testa 404 9.898 ms - 1197
+[info] 2018-11-13T06:40:27.609Z - 127.0.0.1 - GET /api/testa 404 1.212 ms - 1197
+[info] 2018-11-13T06:40:34.682Z - 127.0.0.1 - GET /api/testa 404 1.597 ms - 1197
+[info] 2018-11-13T06:40:35.313Z - 127.0.0.1 - GET /api/testa 404 0.810 ms - 1197
+[info] 2018-11-13T06:40:36.963Z - 127.0.0.1 - GET /api/testa 404 0.863 ms - 1197
+[info] 2018-11-13T06:40:37.818Z - 127.0.0.1 - GET /api/testa 404 1.140 ms - 1197
+[info] 2018-11-13T06:40:38.519Z - 127.0.0.1 - GET /api/testa 404 0.946 ms - 1197
+[info] 2018-11-13T06:40:54.850Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T06:41:01.005Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T06:41:04.398Z - 127.0.0.1 - GET /api/testa 404 9.419 ms - 1197
+[info] 2018-11-13T06:41:22.319Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T06:41:23.189Z - 127.0.0.1 - GET /api/testa 404 8.928 ms - 1197
+[info] 2018-11-13T06:41:24.294Z - 127.0.0.1 - GET /api/testa 404 1.615 ms - 1197
+[info] 2018-11-13T06:41:40.967Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T06:43:03.441Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T06:43:05.206Z - 127.0.0.1 - GET /api/testa 404 12.108 ms - 1197
+[info] 2018-11-13T06:43:06.587Z - 127.0.0.1 - GET /api/testa 404 1.128 ms - 1197
+[info] 2018-11-13T06:43:07.450Z - 127.0.0.1 - GET /api/testa 404 1.073 ms - 1197
+[info] 2018-11-13T06:43:11.917Z - 127.0.0.1 - GET /api/testa 404 0.958 ms - 1197
+[info] 2018-11-13T06:43:12.860Z - 127.0.0.1 - GET /api/testa 404 1.322 ms - 1197
+[info] 2018-11-13T06:43:13.618Z - 127.0.0.1 - GET /api/testa 404 0.841 ms - 1197
+[info] 2018-11-13T06:43:13.966Z - 127.0.0.1 - GET /api/testa 404 1.081 ms - 1197
+[info] 2018-11-13T06:43:14.290Z - 127.0.0.1 - GET /api/testa 404 1.091 ms - 1197
+[info] 2018-11-13T06:43:14.629Z - 127.0.0.1 - GET /api/testa 404 1.869 ms - 1197
+[info] 2018-11-13T06:43:14.956Z - 127.0.0.1 - GET /api/testa 404 0.855 ms - 1197
+[info] 2018-11-13T06:43:17.128Z - 127.0.0.1 - GET /api/testa 404 0.836 ms - 1197
+[info] 2018-11-13T06:43:17.915Z - 127.0.0.1 - GET /api/testa 404 0.981 ms - 1197
+[info] 2018-11-13T06:43:18.794Z - 127.0.0.1 - GET /api/testa 404 1.490 ms - 1197
+[info] 2018-11-13T06:43:19.430Z - 127.0.0.1 - GET /api/testa 404 0.839 ms - 1197
+[info] 2018-11-13T06:43:20.627Z - 127.0.0.1 - GET /api/testa 404 2.905 ms - 1197
+[info] 2018-11-13T06:43:22.423Z - 127.0.0.1 - GET /api/testa 404 1.655 ms - 1197
+[info] 2018-11-13T06:43:23.566Z - 127.0.0.1 - GET /api/testa 404 1.438 ms - 1197
+[info] 2018-11-13T06:43:24.377Z - 127.0.0.1 - GET /api/testa 404 1.422 ms - 1197
+[info] 2018-11-13T06:43:38.321Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T06:43:39.399Z - 127.0.0.1 - GET /api/testa 400 12.152 ms - 1165
+[info] 2018-11-13T06:43:40.491Z - 127.0.0.1 - GET /api/testa 400 1.282 ms - 1165
+[info] 2018-11-13T06:44:03.918Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T06:44:04.148Z - 127.0.0.1 - GET /api/testa 404 54.023 ms - 1197
+[info] 2018-11-13T06:44:14.208Z - 127.0.0.1 - GET /api/testa 404 28.358 ms - 1197
+[info] 2018-11-13T06:44:35.831Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T06:44:36.689Z - 127.0.0.1 - GET /api/testa 500 8.219 ms - 1165
+[info] 2018-11-13T06:44:38.025Z - 127.0.0.1 - GET /api/testa 500 1.106 ms - 1165
+[info] 2018-11-13T06:44:42.837Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T06:44:49.195Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T06:44:49.299Z - 127.0.0.1 - GET /api/testa 500 11.843 ms - 1164
+[info] 2018-11-13T06:45:06.531Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T06:45:12.094Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T06:45:16.376Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T06:45:17.317Z - 127.0.0.1 - GET /api/testa 404 8.702 ms - 1197
+[info] 2018-11-13T06:46:47.582Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T06:47:00.085Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T06:47:04.714Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T06:47:07.731Z - 127.0.0.1 - GET /api/testa 404 9.950 ms - 104
+[info] 2018-11-13T06:47:08.888Z - 127.0.0.1 - GET /api/testa 404 1.147 ms - 104
+[info] 2018-11-13T06:47:19.834Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T06:47:20.521Z - 127.0.0.1 - GET /api/testa 404 10.070 ms - 1197
+[info] 2018-11-13T06:47:31.695Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T06:47:35.913Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T06:47:36.077Z - 127.0.0.1 - GET /api/testa 404 10.182 ms - 104
+[info] 2018-11-13T06:47:38.391Z - 127.0.0.1 - GET /api/testa 404 1.231 ms - 104
+[info] 2018-11-13T06:47:39.241Z - 127.0.0.1 - GET /api/testa 404 1.210 ms - 104
+[info] 2018-11-13T06:47:51.589Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T06:47:52.631Z - 127.0.0.1 - GET /api/testa 404 9.830 ms - 56
+[info] 2018-11-13T06:47:53.867Z - 127.0.0.1 - GET /api/testa 404 1.079 ms - 56
+[info] 2018-11-13T06:47:59.152Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T06:48:09.837Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T06:48:09.915Z - 127.0.0.1 - GET /api/testa 404 17.734 ms - 56
+[info] 2018-11-13T06:48:10.804Z - 127.0.0.1 - GET /api/testa 404 0.959 ms - 56
+[info] 2018-11-13T06:48:11.534Z - 127.0.0.1 - GET /api/testa 404 1.271 ms - 56
+[info] 2018-11-13T06:48:15.252Z - 127.0.0.1 - GET /api/testa 404 0.816 ms - 56
+[info] 2018-11-13T06:48:15.808Z - 127.0.0.1 - GET /api/testa 404 0.807 ms - 56
+[info] 2018-11-13T06:48:25.724Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T06:48:26.408Z - 127.0.0.1 - GET /api/testa 404 13.189 ms - 104
+[error] 2018-11-13T06:48:26.465Z - uncaughtException: listen EADDRINUSE 0.0.0.0:4000
+Error: listen EADDRINUSE 0.0.0.0:4000
+    at Object._errnoException (util.js:1019:11)
+    at _exceptionWithHostPort (util.js:1041:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1344:14)
+    at listenInCluster (net.js:1385:12)
+    at doListen (net.js:1494:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+    at Function.Module.runMain (module.js:667:11)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+    at Module._compile (module.js:624:30)
+[info] 2018-11-13T06:48:27.273Z - 127.0.0.1 - GET /api/testa 404 1.363 ms - 104
+[info] 2018-11-13T06:48:27.790Z - 127.0.0.1 - GET /api/testa 404 10.936 ms - 104
+[info] 2018-11-13T06:48:28.229Z - 127.0.0.1 - GET /api/testa 404 0.994 ms - 104
+[info] 2018-11-13T06:48:28.548Z - 127.0.0.1 - GET /api/testa 404 1.495 ms - 104
+[info] 2018-11-13T06:48:29.560Z - 127.0.0.1 - GET /api/testa 404 1.504 ms - 104
+[info] 2018-11-13T06:48:29.882Z - 127.0.0.1 - GET /api/testa 404 1.296 ms - 104
+[info] 2018-11-13T06:51:43.591Z - 127.0.0.1 - GET /api/testa 404 5.540 ms - 104
+[info] 2018-11-13T06:51:55.517Z - 127.0.0.1 - GET /api/testa 404 1.508 ms - 104
+[info] 2018-11-13T06:51:56.348Z - 127.0.0.1 - GET /api/testa 404 2.384 ms - 104
+[info] 2018-11-13T06:51:56.648Z - 127.0.0.1 - GET /api/testa 404 1.768 ms - 104
+[info] 2018-11-13T06:51:56.969Z - 127.0.0.1 - GET /api/testa 404 1.966 ms - 104
+[error] 2018-11-13T06:53:53.385Z - uncaughtException: listen EADDRINUSE 0.0.0.0:4000
+Error: listen EADDRINUSE 0.0.0.0:4000
+    at Object._errnoException (util.js:1019:11)
+    at _exceptionWithHostPort (util.js:1041:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1344:14)
+    at listenInCluster (net.js:1385:12)
+    at doListen (net.js:1494:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+    at Function.Module.runMain (module.js:667:11)
+    at Object.<anonymous> (/projects/expressjs_demo/node_modules/babel-cli/lib/_babel-node.js:154:22)
+    at Module._compile (module.js:624:30)
+[info] 2018-11-13T06:54:27.741Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T07:12:35.188Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T07:13:06.006Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T07:13:24.837Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T07:15:46.598Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T07:17:18.196Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T07:17:22.305Z - 127.0.0.1 - GET /api/testa 404 11.127 ms - 104
+[info] 2018-11-13T07:17:40.957Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T07:17:42.204Z - 127.0.0.1 - GET /api/testa 404 11.212 ms - 104
+[info] 2018-11-13T07:18:00.523Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T07:18:00.739Z - 127.0.0.1 - GET /api/testa 404 10.448 ms - 104
+[info] 2018-11-13T07:18:05.260Z - 127.0.0.1 - GET /api/testa 404 1.719 ms - 104
+[info] 2018-11-13T07:18:14.424Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T07:19:25.998Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T07:19:28.323Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T07:19:49.076Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T07:19:49.424Z - 127.0.0.1 - GET /api/testa 404 13.881 ms - 1135
+[info] 2018-11-13T07:19:50.925Z - 127.0.0.1 - GET /api/testa 404 1.927 ms - 1135
+[info] 2018-11-13T07:20:02.718Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T07:20:13.976Z - 127.0.0.1 - GET /api/testa 404 11.696 ms - -
+[info] 2018-11-13T07:20:15.722Z - 127.0.0.1 - GET /api/testa 404 1.218 ms - -
+[info] 2018-11-13T08:01:04.635Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T08:02:30.629Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T08:02:36.856Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T08:03:02.293Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T08:03:03.534Z - 127.0.0.1 - GET /api/testa 500 10.144 ms - 1149
+[info] 2018-11-13T08:03:21.454Z - 127.0.0.1 - GET /api/testasdasd 500 2.867 ms - 1149
+[info] 2018-11-13T08:04:02.586Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T08:04:16.062Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T08:04:30.042Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T08:04:36.048Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T08:06:00.712Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T08:06:15.120Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T08:06:17.673Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T08:06:19.652Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T08:06:20.130Z - 127.0.0.1 - GET /api/testasdasd 404 8.224 ms - -
+[info] 2018-11-13T08:06:21.784Z - 127.0.0.1 - GET /api/testasdasd 404 1.085 ms - -
+[info] 2018-11-13T08:06:22.675Z - 127.0.0.1 - GET /api/testasdasd 404 1.055 ms - -
+[info] 2018-11-13T08:06:29.974Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T08:06:30.396Z - 127.0.0.1 - GET /api/testasdasd 404 7.389 ms - -
+[info] 2018-11-13T08:06:35.702Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T08:06:38.707Z - 127.0.0.1 - GET /api/testasdasd - - ms - -
+[info] 2018-11-13T08:06:41.886Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T08:06:43.527Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T08:06:45.011Z - 127.0.0.1 - GET /api/testasdasd 404 8.924 ms - -
+[info] 2018-11-13T08:06:46.014Z - 127.0.0.1 - GET /api/testasdasd 404 1.025 ms - -
+[info] 2018-11-13T08:06:52.441Z - test
+[error] 2018-11-13T08:06:52.441Z - error test
+[info] 2018-11-13T08:06:52.445Z - 127.0.0.1 - GET /api/test 200 3.363 ms - 19
+[info] 2018-11-13T08:06:53.892Z - test
+[error] 2018-11-13T08:06:53.893Z - error test
+[info] 2018-11-13T08:06:53.893Z - 127.0.0.1 - GET /api/test 200 0.908 ms - 19
+[info] 2018-11-13T08:06:55.911Z - 127.0.0.1 - GET /api/testaaa 404 0.782 ms - -
+[info] 2018-11-13T08:06:59.003Z - test
+[error] 2018-11-13T08:06:59.003Z - error test
+[info] 2018-11-13T08:06:59.004Z - 127.0.0.1 - GET /api/test 200 0.765 ms - 19
+[info] 2018-11-13T08:07:12.183Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T08:07:13.866Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T08:07:14.763Z - test
+[error] 2018-11-13T08:07:14.763Z - error test
+[info] 2018-11-13T08:07:14.771Z - 127.0.0.1 - GET /api/test 200 4.605 ms - 19
+[info] 2018-11-13T08:07:15.982Z - test
+[error] 2018-11-13T08:07:15.982Z - error test
+[info] 2018-11-13T08:07:15.984Z - 127.0.0.1 - GET /api/test 200 1.150 ms - 19
+[info] 2018-11-13T08:07:23.985Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T08:07:25.929Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T08:07:26.636Z - test
+[error] 2018-11-13T08:07:26.636Z - error test
+[info] 2018-11-13T08:07:26.644Z - 127.0.0.1 - GET /api/test 200 4.514 ms - 19
+[info] 2018-11-13T08:07:27.465Z - test
+[error] 2018-11-13T08:07:27.465Z - error test
+[info] 2018-11-13T08:07:27.466Z - 127.0.0.1 - GET /api/test 200 0.835 ms - 19
+[info] 2018-11-13T08:07:46.324Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T08:07:46.793Z - test
+[error] 2018-11-13T08:07:46.794Z - error test
+[info] 2018-11-13T08:07:46.802Z - 127.0.0.1 - GET /api/test 200 4.783 ms - 19
+[info] 2018-11-13T08:07:47.774Z - test
+[error] 2018-11-13T08:07:47.774Z - error test
+[info] 2018-11-13T08:07:47.775Z - 127.0.0.1 - GET /api/test 200 0.943 ms - 19
+[info] 2018-11-13T08:07:48.412Z - test
+[error] 2018-11-13T08:07:48.413Z - error test
+[info] 2018-11-13T08:07:48.414Z - 127.0.0.1 - GET /api/test 200 0.979 ms - 19
+[info] 2018-11-13T08:07:48.814Z - test
+[error] 2018-11-13T08:07:48.814Z - error test
+[info] 2018-11-13T08:07:48.814Z - 127.0.0.1 - GET /api/test 200 0.652 ms - 19
+[info] 2018-11-13T08:07:49.249Z - test
+[error] 2018-11-13T08:07:49.250Z - error test
+[info] 2018-11-13T08:07:49.250Z - 127.0.0.1 - GET /api/test 200 0.721 ms - 19
+[info] 2018-11-13T08:07:49.679Z - test
+[error] 2018-11-13T08:07:49.679Z - error test
+[info] 2018-11-13T08:07:49.680Z - 127.0.0.1 - GET /api/test 200 0.711 ms - 19
+[info] 2018-11-13T08:07:50.079Z - test
+[error] 2018-11-13T08:07:50.079Z - error test
+[info] 2018-11-13T08:07:50.079Z - 127.0.0.1 - GET /api/test 200 0.591 ms - 19
+[info] 2018-11-13T08:07:52.953Z - test
+[error] 2018-11-13T08:07:52.953Z - error test
+[info] 2018-11-13T08:07:52.954Z - 127.0.0.1 - GET /api/test 200 0.944 ms - 19
+[info] 2018-11-13T08:07:53.469Z - test
+[error] 2018-11-13T08:07:53.470Z - error test
+[info] 2018-11-13T08:07:53.471Z - 127.0.0.1 - GET /api/test 200 0.914 ms - 19
+[info] 2018-11-13T08:07:53.864Z - test
+[error] 2018-11-13T08:07:53.865Z - error test
+[info] 2018-11-13T08:07:53.865Z - 127.0.0.1 - GET /api/test 200 0.639 ms - 19
+[info] 2018-11-13T08:08:04.727Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T08:08:04.745Z - test
+[error] 2018-11-13T08:08:04.746Z - error test
+[info] 2018-11-13T08:08:04.757Z - 127.0.0.1 - GET /api/test 200 5.694 ms - 19
+[info] 2018-11-13T08:08:06.366Z - test
+[error] 2018-11-13T08:08:06.367Z - error test
+[info] 2018-11-13T08:08:06.368Z - 127.0.0.1 - GET /api/test 200 0.818 ms - 19
+[info] 2018-11-13T08:08:15.202Z - 127.0.0.1 - GET /api/test/a 404 6.531 ms - -
+[info] 2018-11-13T08:08:17.602Z - 127.0.0.1 - GET /api/test/a 404 0.907 ms - -
+[info] 2018-11-13T08:08:26.150Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T08:08:27.329Z - 127.0.0.1 - GET /api/test/a 404 9.093 ms - -
+[info] 2018-11-13T08:08:44.051Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T08:08:50.257Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T08:08:51.674Z - 127.0.0.1 - GET /api/test/a 404 6.822 ms - -
+[info] 2018-11-13T08:08:52.645Z - 127.0.0.1 - GET /api/test/a 404 0.897 ms - -
+[info] 2018-11-13T08:08:54.294Z - 127.0.0.1 - GET /api/test/a 404 0.806 ms - -
+[info] 2018-11-13T08:08:54.964Z - 127.0.0.1 - GET /api/test/a 404 1.039 ms - -
+[info] 2018-11-13T08:08:55.388Z - 127.0.0.1 - GET /api/test/a 404 1.157 ms - -
+[info] 2018-11-13T08:08:55.816Z - 127.0.0.1 - GET /api/test/a 404 1.247 ms - -
+[info] 2018-11-13T08:08:56.205Z - 127.0.0.1 - GET /api/test/a 404 0.887 ms - -
+[info] 2018-11-13T08:09:00.010Z - 127.0.0.1 - GET /api/test/a 404 0.759 ms - -
+[info] 2018-11-13T08:09:08.271Z - 127.0.0.1 - GET /api/test/a 404 2.286 ms - -
+[info] 2018-11-13T08:09:08.933Z - 127.0.0.1 - GET /api/test/a 404 1.467 ms - -
+[info] 2018-11-13T08:09:09.181Z - 127.0.0.1 - GET /api/test/a 404 1.003 ms - -
+[info] 2018-11-13T08:09:09.496Z - 127.0.0.1 - GET /api/test/a 404 1.119 ms - -
+[info] 2018-11-13T08:09:19.540Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T08:09:20.470Z - 127.0.0.1 - GET /api/test/a 404 7.727 ms - -
+[info] 2018-11-13T08:09:21.246Z - 127.0.0.1 - GET /api/test/a 404 1.135 ms - -
+[info] 2018-11-13T08:09:30.424Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T08:09:32.790Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T08:09:45.985Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T08:09:46.644Z - 127.0.0.1 - GET /api/test/a 404 8.558 ms - 105
+[info] 2018-11-13T08:09:51.421Z - test
+[error] 2018-11-13T08:09:51.422Z - error test
+[info] 2018-11-13T08:09:51.423Z - 127.0.0.1 - GET /api/test 200 8.074 ms - 19
+[info] 2018-11-13T08:09:52.455Z - test
+[error] 2018-11-13T08:09:52.455Z - error test
+[info] 2018-11-13T08:09:52.456Z - 127.0.0.1 - GET /api/test 200 1.021 ms - 19
+[info] 2018-11-13T08:09:59.333Z - demo_api Server is running on port: 4000
+[info] 2018-11-13T08:09:59.756Z - test
+[error] 2018-11-13T08:09:59.756Z - error test
+[info] 2018-11-13T08:09:59.765Z - 127.0.0.1 - GET /api/test 200 5.405 ms - 47
+[info] 2018-11-13T08:10:00.804Z - test
+[error] 2018-11-13T08:10:00.805Z - error test
+[info] 2018-11-13T08:10:00.806Z - 127.0.0.1 - GET /api/test 200 1.422 ms - 47
+[info] 2018-11-13T08:10:01.350Z - test
+[error] 2018-11-13T08:10:01.351Z - error test
+[info] 2018-11-13T08:10:01.352Z - 127.0.0.1 - GET /api/test 200 0.940 ms - 47
+[info] 2018-11-13T08:10:01.735Z - test
+[error] 2018-11-13T08:10:01.736Z - error test
+[info] 2018-11-13T08:10:01.736Z - 127.0.0.1 - GET /api/test 200 0.647 ms - 47
+[info] 2018-11-13T08:10:02.103Z - test
+[error] 2018-11-13T08:10:02.103Z - error test
+[info] 2018-11-13T08:10:02.104Z - 127.0.0.1 - GET /api/test 200 0.740 ms - 47
+[info] 2018-11-13T08:10:02.390Z - test
+[error] 2018-11-13T08:10:02.390Z - error test
+[info] 2018-11-13T08:10:02.391Z - 127.0.0.1 - GET /api/test 200 0.696 ms - 47
+[info] 2018-11-13T08:10:02.739Z - test
+[error] 2018-11-13T08:10:02.739Z - error test
+[info] 2018-11-13T08:10:02.740Z - 127.0.0.1 - GET /api/test 200 0.663 ms - 47
+[info] 2018-11-13T08:10:04.523Z - test
+[error] 2018-11-13T08:10:04.523Z - error test
+[info] 2018-11-13T08:10:04.523Z - 127.0.0.1 - GET /api/test 200 0.668 ms - 47
+[info] 2018-11-13T08:10:05.239Z - test
+[error] 2018-11-13T08:10:05.239Z - error test
+[info] 2018-11-13T08:10:05.240Z - 127.0.0.1 - GET /api/test 200 0.665 ms - 47
+[info] 2018-11-13T08:10:05.895Z - test
+[error] 2018-11-13T08:10:05.895Z - error test
+[info] 2018-11-13T08:10:05.896Z - 127.0.0.1 - GET /api/test 200 0.658 ms - 47
+[info] 2018-11-13T08:10:09.130Z - test
+[error] 2018-11-13T08:10:09.131Z - error test
+[info] 2018-11-13T08:10:09.140Z - 127.0.0.1 - GET /api/test 200 9.405 ms - 47
+[info] 2018-11-13T08:22:18.206Z - demo_api Server is running on port: 4000
+[error] 2018-11-13T08:22:18.220Z - uncaughtException: "listener" argument must be a function
+TypeError: "listener" argument must be a function
+    at _addListener (events.js:238:11)
+    at Server.addListener (events.js:298:10)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:29:4)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+[info] 2018-11-13T08:22:32.170Z - test
+[error] 2018-11-13T08:22:32.171Z - error test
+[info] 2018-11-13T08:22:32.181Z - 127.0.0.1 - GET /api/test 200 6.480 ms - 47
+[info] 2018-11-13T08:22:45.576Z - demo_api Server is running on port: 4000
+[error] 2018-11-13T08:22:45.586Z - uncaughtException: "listener" argument must be a function
+TypeError: "listener" argument must be a function
+    at _addListener (events.js:238:11)
+    at Server.addListener (events.js:298:10)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:29:4)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+[info] 2018-11-13T08:24:29.690Z - demo_api Server is running on port: 4000
+[error] 2018-11-13T08:24:29.702Z - uncaughtException: "listener" argument must be a function
+TypeError: "listener" argument must be a function
+    at _addListener (events.js:238:11)
+    at Server.addListener (events.js:298:10)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:29:4)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+[info] 2018-11-13T08:25:37.304Z - demo_api Server is running on port: 4000
+[error] 2018-11-13T08:25:37.315Z - uncaughtException: "listener" argument must be a function
+TypeError: "listener" argument must be a function
+    at _addListener (events.js:238:11)
+    at Server.addListener (events.js:298:10)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:29:4)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+[info] 2018-11-13T08:25:45.433Z - demo_api server is running on port: 4000
+[error] 2018-11-13T08:25:45.443Z - uncaughtException: "listener" argument must be a function
+TypeError: "listener" argument must be a function
+    at _addListener (events.js:238:11)
+    at Server.addListener (events.js:298:10)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:29:4)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+[info] 2018-11-13T08:26:11.018Z - demo_api server is running on port: 4000
+[error] 2018-11-13T08:26:11.031Z - uncaughtException: "listener" argument must be a function
+TypeError: "listener" argument must be a function
+    at _addListener (events.js:238:11)
+    at Server.addListener (events.js:298:10)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:29:4)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+[error] 2018-11-13T08:26:11.057Z - uncaughtException: listen EADDRINUSE 0.0.0.0:4000
+Error: listen EADDRINUSE 0.0.0.0:4000
+    at Object._errnoException (util.js:1019:11)
+    at _exceptionWithHostPort (util.js:1041:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1344:14)
+    at listenInCluster (net.js:1385:12)
+    at doListen (net.js:1494:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+[info] 2018-11-13T08:26:52.975Z - demo_api server is running on port: 4000
+[error] 2018-11-13T08:26:52.985Z - uncaughtException: "listener" argument must be a function
+TypeError: "listener" argument must be a function
+    at _addListener (events.js:238:11)
+    at Server.addListener (events.js:298:10)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:29:4)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+[info] 2018-11-13T08:26:52.975Z - demo_api server is running on port: 4000
+[error] 2018-11-13T08:26:52.985Z - uncaughtException: "listener" argument must be a function
+TypeError: "listener" argument must be a function
+    at _addListener (events.js:238:11)
+    at Server.addListener (events.js:298:10)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:29:4)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+[error] 2018-11-13T08:26:53.004Z - uncaughtException: listen EADDRINUSE 0.0.0.0:4000
+Error: listen EADDRINUSE 0.0.0.0:4000
+    at Object._errnoException (util.js:1019:11)
+    at _exceptionWithHostPort (util.js:1041:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1344:14)
+    at listenInCluster (net.js:1385:12)
+    at doListen (net.js:1494:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+[info] 2018-11-13T08:27:27.618Z - demo_api server is running on port: 4000
+[error] 2018-11-13T08:27:27.627Z - uncaughtException: "listener" argument must be a function
+TypeError: "listener" argument must be a function
+    at _addListener (events.js:238:11)
+    at Server.addListener (events.js:298:10)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:29:4)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+[info] 2018-11-13T08:27:27.652Z - demo_api server is running on port: 4000
+[error] 2018-11-13T08:27:27.662Z - uncaughtException: "listener" argument must be a function
+TypeError: "listener" argument must be a function
+    at _addListener (events.js:238:11)
+    at Server.addListener (events.js:298:10)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:29:4)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+[error] 2018-11-13T08:27:27.677Z - uncaughtException: listen EADDRINUSE 0.0.0.0:4000
+Error: listen EADDRINUSE 0.0.0.0:4000
+    at Object._errnoException (util.js:1019:11)
+    at _exceptionWithHostPort (util.js:1041:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1344:14)
+    at listenInCluster (net.js:1385:12)
+    at doListen (net.js:1494:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+[info] 2018-11-13T08:27:32.670Z - demo_api server is running on port: 4000
+[error] 2018-11-13T08:27:32.679Z - uncaughtException: "listener" argument must be a function
+TypeError: "listener" argument must be a function
+    at _addListener (events.js:238:11)
+    at Server.addListener (events.js:298:10)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:29:4)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+[info] 2018-11-13T08:27:32.717Z - demo_api server is running on port: 4000
+[error] 2018-11-13T08:27:32.728Z - uncaughtException: "listener" argument must be a function
+TypeError: "listener" argument must be a function
+    at _addListener (events.js:238:11)
+    at Server.addListener (events.js:298:10)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:29:4)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+[error] 2018-11-13T08:27:32.750Z - uncaughtException: listen EADDRINUSE 0.0.0.0:4000
+Error: listen EADDRINUSE 0.0.0.0:4000
+    at Object._errnoException (util.js:1019:11)
+    at _exceptionWithHostPort (util.js:1041:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1344:14)
+    at listenInCluster (net.js:1385:12)
+    at doListen (net.js:1494:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+[info] 2018-11-13T08:27:38.853Z - demo_api server is running on port: 4000
+[error] 2018-11-13T08:27:38.863Z - uncaughtException: "listener" argument must be a function
+TypeError: "listener" argument must be a function
+    at _addListener (events.js:238:11)
+    at Server.addListener (events.js:298:10)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:29:4)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+[info] 2018-11-13T08:27:38.916Z - demo_api server is running on port: 4000
+[error] 2018-11-13T08:27:38.927Z - uncaughtException: "listener" argument must be a function
+TypeError: "listener" argument must be a function
+    at _addListener (events.js:238:11)
+    at Server.addListener (events.js:298:10)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:29:4)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+[error] 2018-11-13T08:27:38.942Z - uncaughtException: listen EADDRINUSE 0.0.0.0:4000
+Error: listen EADDRINUSE 0.0.0.0:4000
+    at Object._errnoException (util.js:1019:11)
+    at _exceptionWithHostPort (util.js:1041:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1344:14)
+    at listenInCluster (net.js:1385:12)
+    at doListen (net.js:1494:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+[info] 2018-11-13T08:27:44.725Z - demo_api server is running on port: 4000
+[error] 2018-11-13T08:27:44.735Z - uncaughtException: "listener" argument must be a function
+TypeError: "listener" argument must be a function
+    at _addListener (events.js:238:11)
+    at Server.addListener (events.js:298:10)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:29:4)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+[info] 2018-11-13T08:27:44.765Z - demo_api server is running on port: 4000
+[error] 2018-11-13T08:27:44.775Z - uncaughtException: "listener" argument must be a function
+TypeError: "listener" argument must be a function
+    at _addListener (events.js:238:11)
+    at Server.addListener (events.js:298:10)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:29:4)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+[error] 2018-11-13T08:27:44.791Z - uncaughtException: listen EADDRINUSE 0.0.0.0:4000
+Error: listen EADDRINUSE 0.0.0.0:4000
+    at Object._errnoException (util.js:1019:11)
+    at _exceptionWithHostPort (util.js:1041:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1344:14)
+    at listenInCluster (net.js:1385:12)
+    at doListen (net.js:1494:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+[info] 2018-11-13T08:28:47.290Z - demo_api server is running on port: 4000
+[error] 2018-11-13T08:28:47.302Z - uncaughtException: "listener" argument must be a function
+TypeError: "listener" argument must be a function
+    at _addListener (events.js:238:11)
+    at Server.addListener (events.js:298:10)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:31:4)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+[info] 2018-11-13T08:28:47.290Z - demo_api server is running on port: 4000
+[error] 2018-11-13T08:28:47.309Z - uncaughtException: "listener" argument must be a function
+TypeError: "listener" argument must be a function
+    at _addListener (events.js:238:11)
+    at Server.addListener (events.js:298:10)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:31:4)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+[error] 2018-11-13T08:28:47.341Z - uncaughtException: listen EADDRINUSE 0.0.0.0:4000
+Error: listen EADDRINUSE 0.0.0.0:4000
+    at Object._errnoException (util.js:1019:11)
+    at _exceptionWithHostPort (util.js:1041:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1344:14)
+    at listenInCluster (net.js:1385:12)
+    at doListen (net.js:1494:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+[info] 2018-11-13T08:28:55.456Z - demo_api server is running on port: 4000
+[error] 2018-11-13T08:28:55.468Z - uncaughtException: "listener" argument must be a function
+TypeError: "listener" argument must be a function
+    at _addListener (events.js:238:11)
+    at Server.addListener (events.js:298:10)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:31:4)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+[info] 2018-11-13T08:30:26.515Z - demo_api server is running on port: 4000
+[error] 2018-11-13T08:30:26.525Z - uncaughtException: "listener" argument must be a function
+TypeError: "listener" argument must be a function
+    at _addListener (events.js:238:11)
+    at Server.addListener (events.js:298:10)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:31:4)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+[info] 2018-11-13T08:34:47.402Z - demo_api server is running on port: 4000
+[error] 2018-11-13T08:34:47.413Z - uncaughtException: "listener" argument must be a function
+TypeError: "listener" argument must be a function
+    at _addListener (events.js:238:11)
+    at Server.addListener (events.js:298:10)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:31:4)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+[info] 2018-11-13T08:35:03.617Z - demo_api server is running on port: 4000
+[error] 2018-11-13T08:35:03.630Z - uncaughtException: "listener" argument must be a function
+TypeError: "listener" argument must be a function
+    at _addListener (events.js:238:11)
+    at Server.addListener (events.js:298:10)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:31:4)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+[info] 2018-11-13T08:37:04.917Z - demo_api server is running on port: 4000
+[error] 2018-11-13T08:37:04.928Z - uncaughtException: "listener" argument must be a function
+TypeError: "listener" argument must be a function
+    at _addListener (events.js:238:11)
+    at Server.addListener (events.js:298:10)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:31:4)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+[info] 2018-11-13T08:37:55.054Z - demo_api server is running on port: 4000
+[error] 2018-11-13T08:37:55.065Z - uncaughtException: "listener" argument must be a function
+TypeError: "listener" argument must be a function
+    at _addListener (events.js:238:11)
+    at Server.addListener (events.js:298:10)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:31:4)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+[info] 2018-11-13T08:38:43.247Z - demo_api server is running on port: 4000
+[error] 2018-11-13T08:38:43.258Z - uncaughtException: "listener" argument must be a function
+TypeError: "listener" argument must be a function
+    at _addListener (events.js:238:11)
+    at Server.addListener (events.js:298:10)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:31:4)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+[info] 2018-11-13T08:40:41.607Z - demo_api server is running on port: 4000
+[error] 2018-11-13T08:40:41.619Z - uncaughtException: "listener" argument must be a function
+TypeError: "listener" argument must be a function
+    at _addListener (events.js:238:11)
+    at Server.addListener (events.js:298:10)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:31:4)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+[info] 2018-11-13T08:41:01.551Z - demo_api server is running on port: 4000
+[error] 2018-11-13T08:41:01.562Z - uncaughtException: "listener" argument must be a function
+TypeError: "listener" argument must be a function
+    at _addListener (events.js:238:11)
+    at Server.addListener (events.js:298:10)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:31:4)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+[info] 2018-11-13T08:41:20.829Z - demo_api server is running on port: 4000
+[error] 2018-11-13T08:41:20.840Z - uncaughtException: "listener" argument must be a function
+TypeError: "listener" argument must be a function
+    at _addListener (events.js:238:11)
+    at Server.addListener (events.js:298:10)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:31:4)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+[info] 2018-11-13T08:47:28.749Z - demo_api server is running on port: 4000
+[error] 2018-11-13T08:47:28.760Z - uncaughtException: "listener" argument must be a function
+TypeError: "listener" argument must be a function
+    at _addListener (events.js:238:11)
+    at Server.addListener (events.js:298:10)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:31:4)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+[info] 2018-11-13T08:47:34.465Z - demo_api server is running on port: 4000
+[error] 2018-11-13T08:47:34.476Z - uncaughtException: "listener" argument must be a function
+TypeError: "listener" argument must be a function
+    at _addListener (events.js:238:11)
+    at Server.addListener (events.js:298:10)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:31:4)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+[info] 2018-11-13T08:47:37.699Z - demo_api server is running on port: 4000
+[error] 2018-11-13T08:47:37.709Z - uncaughtException: "listener" argument must be a function
+TypeError: "listener" argument must be a function
+    at _addListener (events.js:238:11)
+    at Server.addListener (events.js:298:10)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:31:4)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+[info] 2018-11-13T08:49:10.881Z - demo_api server is running on port: 4000
+[error] 2018-11-13T08:49:10.893Z - uncaughtException: "listener" argument must be a function
+TypeError: "listener" argument must be a function
+    at _addListener (events.js:238:11)
+    at Server.addListener (events.js:298:10)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:31:4)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+[info] 2018-11-13T08:49:13.899Z - demo_api server is running on port: 4000
+[error] 2018-11-13T08:49:13.909Z - uncaughtException: "listener" argument must be a function
+TypeError: "listener" argument must be a function
+    at _addListener (events.js:238:11)
+    at Server.addListener (events.js:298:10)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:31:4)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+[info] 2018-11-13T08:51:39.561Z - demo_api server is running on port: 4000
+[error] 2018-11-13T08:51:39.572Z - uncaughtException: "listener" argument must be a function
+TypeError: "listener" argument must be a function
+    at _addListener (events.js:238:11)
+    at Server.addListener (events.js:298:10)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:31:4)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+[info] 2018-11-13T08:51:42.699Z - demo_api server is running on port: 4000
+[error] 2018-11-13T08:51:42.709Z - uncaughtException: "listener" argument must be a function
+TypeError: "listener" argument must be a function
+    at _addListener (events.js:238:11)
+    at Server.addListener (events.js:298:10)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:31:4)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+[info] 2018-11-13T08:51:55.634Z - demo_api server is running on port: 4000
+[error] 2018-11-13T08:51:55.647Z - uncaughtException: "listener" argument must be a function
+TypeError: "listener" argument must be a function
+    at _addListener (events.js:238:11)
+    at Server.addListener (events.js:298:10)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:31:4)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+[info] 2018-11-13T08:53:29.164Z - demo_api server is running on port: 4000
+[error] 2018-11-13T08:53:29.175Z - uncaughtException: "listener" argument must be a function
+TypeError: "listener" argument must be a function
+    at _addListener (events.js:238:11)
+    at Server.addListener (events.js:298:10)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:31:4)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+[error] 2018-11-14T01:46:14.285Z - uncaughtException: Cannot find module './middlewares/logger'
+Error: Cannot find module './middlewares/logger'
+    at Function.Module._resolveFilename (module.js:527:15)
+    at Function.Module._load (module.js:476:23)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:9:1)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+[info] 2018-11-14T01:47:21.560Z - demo_api server is running on port: 4000
+[error] 2018-11-14T01:47:21.572Z - uncaughtException: "listener" argument must be a function
+TypeError: "listener" argument must be a function
+    at _addListener (events.js:238:11)
+    at Server.addListener (events.js:298:10)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:33:4)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+[info] 2018-11-14T01:47:25.823Z - test
+[error] 2018-11-14T01:47:25.823Z - error test
+[info] 2018-11-14T01:47:25.834Z - 127.0.0.1 - GET /api/test 200 6.618 ms - 47
+[info] 2018-11-14T01:49:03.582Z - demo_api server is running on port: 4000
+[error] 2018-11-14T01:49:03.595Z - uncaughtException: "listener" argument must be a function
+TypeError: "listener" argument must be a function
+    at _addListener (events.js:238:11)
+    at Server.addListener (events.js:298:10)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:33:4)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+[info] 2018-11-14T01:49:12.896Z - demo_api server is running on port: 4000
+[error] 2018-11-14T01:49:12.906Z - uncaughtException: "listener" argument must be a function
+TypeError: "listener" argument must be a function
+    at _addListener (events.js:238:11)
+    at Server.addListener (events.js:298:10)
+    at Object.<anonymous> (/projects/expressjs_demo/server.js:33:4)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/expressjs_demo/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+[info] 2018-11-14T03:37:27.652Z - demo_api server is running on port: 4000
+[error] 2018-11-14T03:37:27.663Z - uncaughtException: "listener" argument must be a function
+TypeError: "listener" argument must be a function
+    at _addListener (events.js:238:11)
+    at Server.addListener (events.js:298:10)
+    at Object.<anonymous> (/projects/base-node-express-api/server.js:33:4)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/base-node-express-api/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/base-node-express-api/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+[info] 2018-11-14T03:42:53.384Z - base-node-express-api server is running on port: 4000
+[error] 2018-11-14T03:42:53.395Z - uncaughtException: "listener" argument must be a function
+TypeError: "listener" argument must be a function
+    at _addListener (events.js:238:11)
+    at Server.addListener (events.js:298:10)
+    at Object.<anonymous> (/projects/base-node-express-api/server.js:33:4)
+    at Module._compile (module.js:624:30)
+    at loader (/projects/base-node-express-api/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/projects/base-node-express-api/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
