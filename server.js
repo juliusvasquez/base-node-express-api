@@ -13,9 +13,11 @@ const server = express();
 // Configure server to use bodyParser()
 // this will let us get the data from a POST
 server.use(bodyParser.json());
-server.use(bodyParser.urlencoded({
-  extended: true
-}));
+server.use(
+  bodyParser.urlencoded({
+    extended: true,
+  }),
+);
 
 // Middleware to integrate morgan to the default logger
 server.use(morganLogger);
@@ -27,10 +29,14 @@ server.use(mung.json(jsend));
 routes(server);
 
 // Listen on provided port, on all network interfaces.
-server.listen(appConfig.app.port, '0.0.0.0')
+server
+  .listen(appConfig.app.port, '0.0.0.0')
 
   // Event listener for server "listening" event
-  .on('listening', logger.info(`${appConfig.app.name} server is running on port: ${appConfig.app.port}`))
+  .on(
+    'listening',
+    logger.info(`${appConfig.app.name} server is running on port: ${appConfig.app.port}`),
+  )
 
   // Event listener for server "error" event
   .on('error', (error) => {
@@ -43,7 +49,7 @@ server.listen(appConfig.app.port, '0.0.0.0')
         process.exit(1);
         break;
       case 'EADDRINUSE':
-        console.error(`${appConfig.app.port} is already in use`);
+        logger.error(`${appConfig.app.port} is already in use`);
         process.exit(1);
         break;
       default:

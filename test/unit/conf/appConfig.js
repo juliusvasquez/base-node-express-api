@@ -6,7 +6,7 @@ import { noPreserveCache } from 'proxyquire';
 const proxyquire = noPreserveCache();
 
 let config;
-function setAppConfig () {
+function setAppConfig() {
   config = proxyquire('../../../conf/appConfig', {}).default;
 }
 
@@ -24,7 +24,7 @@ const {
   LOG_ACCESS_PATH,
   LOG_ERROR_PATH,
   LOG_LEVEL,
-  LOG_ENABLE_CONSOLE
+  LOG_ENABLE_CONSOLE,
 } = process.env;
 
 describe('Application Config Test Suite', () => {
