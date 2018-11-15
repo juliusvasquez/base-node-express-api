@@ -30,19 +30,10 @@ routes(server);
 
 // Listen on provided port, on all network interfaces.
 server
-  .listen(appConfig.app.port, '0.0.0.0')
-
-  // Event listener for server "listening" event
-  .on(
-    'listening',
-    logger.info(`${appConfig.app.name} server is running on port: ${appConfig.app.port}`),
-  )
+  .listen(appConfig.app.port, '0.0.0.0', () => logger.info(`${appConfig.app.name} server is running on port: ${appConfig.app.port}`))
 
   // Event listener for server "error" event
   .on('error', (error) => {
-    if (error.syscall !== 'listen') {
-      throw error;
-    }
     switch (error.code) {
       case 'EACCES':
         logger.error(`${appConfig.app.port} requires elevated privileges1`);
@@ -56,3 +47,8 @@ server
         throw error;
     }
   });
+
+// Catch the unhandled rejections
+process.on('unhandledRejection', (error) => {
+  logger.error('[Unhandled Rejection]', error);
+});
